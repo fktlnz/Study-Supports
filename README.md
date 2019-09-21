@@ -14,7 +14,7 @@
 - ログイン画面
 - 項目管理画面  
 好きな項目を「+追加」から追加します。各項目で何時間勉強したのか表示されます。
-![Index Page](https://gyazo.com/909793dd1a354981619b5299ae5d432a "サンプル")
+![Index Page](https://gyazo.com/909793dd1a354981619b5299ae5d432a.png"サンプル")
 [Index page](https://gyazo.com/909793dd1a354981619b5299ae5d432a.png)
   
 - 測定画面  
