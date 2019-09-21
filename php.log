@@ -1,0 +1,3520 @@
+[21-Sep-2019 09:28:20 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 09:28:20 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 09:28:21 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 09:28:21 Asia/Tokyo] デバッグ：「　メインボードページ　
+[21-Sep-2019 09:28:21 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 09:28:21 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 09:28:21 Asia/Tokyo] デバッグ：セッションID：edad0bae9cb921f21a93929fe8cd766b
+[21-Sep-2019 09:28:21 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[21-Sep-2019 09:28:21 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569025701
+[21-Sep-2019 09:28:21 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 09:28:21 Asia/Tokyo] デバッグ：「　認証ページ　
+[21-Sep-2019 09:28:21 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 09:28:21 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 09:28:21 Asia/Tokyo] デバッグ：セッションID：edad0bae9cb921f21a93929fe8cd766b
+[21-Sep-2019 09:28:21 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[21-Sep-2019 09:28:21 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569025701
+[21-Sep-2019 09:28:21 Asia/Tokyo] デバッグ：未ログインユーザーです
+[21-Sep-2019 09:28:21 Asia/Tokyo] PHP Notice:  Undefined variable: display_msg in C:\MAMP\htdocs\Study-Support\auth.php on line 33
+[21-Sep-2019 09:28:21 Asia/Tokyo] PHP Warning:  Creating default object from empty value in C:\MAMP\htdocs\Study-Support\auth.php on line 33
+[21-Sep-2019 09:28:21 Asia/Tokyo] デバッグ：勉強項目をすべて取得します
+[21-Sep-2019 09:28:21 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 09:28:21 Asia/Tokyo] デバッグ：クエリに成功しました
+[21-Sep-2019 09:28:21 Asia/Tokyo] デバッグ：取得した全項目: Array
+(
+)
+
+[21-Sep-2019 09:28:21 Asia/Tokyo] PHP Notice:  Undefined index: msg in C:\MAMP\htdocs\Study-Support\functions.php on line 71
+[21-Sep-2019 09:28:21 Asia/Tokyo] デバッグ：メッセージ取得します：
+[21-Sep-2019 09:28:21 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 09:28:21 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 09:28:21 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 09:28:21 Asia/Tokyo] デバッグ：「　ユーザー登録ページ　
+[21-Sep-2019 09:28:21 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 09:28:21 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 09:28:21 Asia/Tokyo] デバッグ：セッションID：59bcc785b5f3935106eb416689d98fb5
+[21-Sep-2019 09:28:21 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[21-Sep-2019 09:28:21 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569025701
+[21-Sep-2019 09:29:05 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 09:29:05 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 09:29:05 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 09:29:05 Asia/Tokyo] デバッグ：「　ユーザー登録ページ　
+[21-Sep-2019 09:29:05 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 09:29:05 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 09:29:05 Asia/Tokyo] デバッグ：セッションID：0f99abe1c003f06cebf7ef7e64446b81
+[21-Sep-2019 09:29:05 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[21-Sep-2019 09:29:05 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569025745
+[21-Sep-2019 09:29:08 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 09:29:08 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 09:29:08 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 09:29:08 Asia/Tokyo] デバッグ：「　ユーザー登録ページ　
+[21-Sep-2019 09:29:08 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 09:29:08 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 09:29:08 Asia/Tokyo] デバッグ：セッションID：25ba76d957c1edfbf0a0ebc39c645e6f
+[21-Sep-2019 09:29:08 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[21-Sep-2019 09:29:08 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569025748
+[21-Sep-2019 09:37:14 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 09:37:14 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 09:37:14 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 09:37:14 Asia/Tokyo] デバッグ：「　メインボードページ　
+[21-Sep-2019 09:37:14 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 09:37:14 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 09:37:14 Asia/Tokyo] デバッグ：セッションID：8452a5b78f0dea8335cb06f107822145
+[21-Sep-2019 09:37:14 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[21-Sep-2019 09:37:14 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569026234
+[21-Sep-2019 09:37:14 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 09:37:14 Asia/Tokyo] デバッグ：「　認証ページ　
+[21-Sep-2019 09:37:14 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 09:37:14 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 09:37:14 Asia/Tokyo] デバッグ：セッションID：8452a5b78f0dea8335cb06f107822145
+[21-Sep-2019 09:37:14 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[21-Sep-2019 09:37:14 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569026234
+[21-Sep-2019 09:37:14 Asia/Tokyo] デバッグ：未ログインユーザーです
+[21-Sep-2019 09:37:14 Asia/Tokyo] PHP Notice:  Undefined variable: display_msg in C:\MAMP\htdocs\Study-Support\auth.php on line 33
+[21-Sep-2019 09:37:14 Asia/Tokyo] PHP Warning:  Creating default object from empty value in C:\MAMP\htdocs\Study-Support\auth.php on line 33
+[21-Sep-2019 09:37:14 Asia/Tokyo] デバッグ：勉強項目をすべて取得します
+[21-Sep-2019 09:37:14 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 09:37:14 Asia/Tokyo] デバッグ：クエリに成功しました
+[21-Sep-2019 09:37:14 Asia/Tokyo] デバッグ：取得した全項目: Array
+(
+)
+
+[21-Sep-2019 09:37:14 Asia/Tokyo] PHP Notice:  Undefined index: msg in C:\MAMP\htdocs\Study-Support\functions.php on line 71
+[21-Sep-2019 09:37:14 Asia/Tokyo] デバッグ：メッセージ取得します：
+[21-Sep-2019 09:37:14 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 09:37:14 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 09:37:14 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 09:37:14 Asia/Tokyo] デバッグ：「　ユーザー登録ページ　
+[21-Sep-2019 09:37:14 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 09:37:14 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 09:37:14 Asia/Tokyo] デバッグ：セッションID：6632fafffee818e2adac066b93e1d45f
+[21-Sep-2019 09:37:14 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[21-Sep-2019 09:37:14 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569026234
+[21-Sep-2019 09:37:20 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 09:37:20 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 09:37:20 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 09:37:20 Asia/Tokyo] デバッグ：「　ユーザー登録ページ　
+[21-Sep-2019 09:37:20 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 09:37:20 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 09:37:20 Asia/Tokyo] デバッグ：セッションID：372e9c18c5cc50594fb0bcbfd6bc311d
+[21-Sep-2019 09:37:20 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[21-Sep-2019 09:37:20 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569026240
+[21-Sep-2019 09:48:07 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 09:48:07 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 09:48:07 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 09:48:07 Asia/Tokyo] デバッグ：「　メインボードページ　
+[21-Sep-2019 09:48:07 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 09:48:07 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 09:48:07 Asia/Tokyo] デバッグ：セッションID：221ee37947d6a73013c759ad350c1925
+[21-Sep-2019 09:48:07 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[21-Sep-2019 09:48:07 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569026887
+[21-Sep-2019 09:48:07 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 09:48:07 Asia/Tokyo] デバッグ：「　認証ページ　
+[21-Sep-2019 09:48:07 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 09:48:07 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 09:48:07 Asia/Tokyo] デバッグ：セッションID：221ee37947d6a73013c759ad350c1925
+[21-Sep-2019 09:48:07 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[21-Sep-2019 09:48:07 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569026887
+[21-Sep-2019 09:48:07 Asia/Tokyo] デバッグ：未ログインユーザーです
+[21-Sep-2019 09:48:07 Asia/Tokyo] PHP Notice:  Undefined variable: display_msg in C:\MAMP\htdocs\Study-Support\auth.php on line 33
+[21-Sep-2019 09:48:07 Asia/Tokyo] PHP Warning:  Creating default object from empty value in C:\MAMP\htdocs\Study-Support\auth.php on line 33
+[21-Sep-2019 09:48:07 Asia/Tokyo] デバッグ：勉強項目をすべて取得します
+[21-Sep-2019 09:48:07 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 09:48:07 Asia/Tokyo] デバッグ：クエリに成功しました
+[21-Sep-2019 09:48:07 Asia/Tokyo] デバッグ：取得した全項目: Array
+(
+)
+
+[21-Sep-2019 09:48:07 Asia/Tokyo] PHP Notice:  Undefined index: msg in C:\MAMP\htdocs\Study-Support\functions.php on line 71
+[21-Sep-2019 09:48:07 Asia/Tokyo] デバッグ：メッセージ取得します：
+[21-Sep-2019 09:48:07 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 09:48:07 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 09:48:07 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 09:48:07 Asia/Tokyo] デバッグ：「　ユーザー登録ページ　
+[21-Sep-2019 09:48:07 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 09:48:07 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 09:48:07 Asia/Tokyo] デバッグ：セッションID：b38bf556ec46139b3e58f8e068d3efac
+[21-Sep-2019 09:48:07 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[21-Sep-2019 09:48:07 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569026887
+[21-Sep-2019 09:49:16 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 09:49:16 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 09:49:16 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 09:49:16 Asia/Tokyo] デバッグ：「　ユーザー登録ページ　
+[21-Sep-2019 09:49:16 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 09:49:16 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 09:49:16 Asia/Tokyo] デバッグ：セッションID：fcd540017ddbf682f613e464e858955b
+[21-Sep-2019 09:49:16 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[21-Sep-2019 09:49:16 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569026956
+[21-Sep-2019 09:55:00 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 09:55:00 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 09:55:00 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 09:55:00 Asia/Tokyo] デバッグ：「　ユーザー登録ページ　
+[21-Sep-2019 09:55:00 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 09:55:00 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 09:55:00 Asia/Tokyo] デバッグ：セッションID：d4b27cf072986a3ef8d840d766737911
+[21-Sep-2019 09:55:00 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[21-Sep-2019 09:55:00 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569027300
+[21-Sep-2019 09:55:02 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 09:55:02 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 09:55:02 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 09:55:02 Asia/Tokyo] デバッグ：「　ユーザー登録ページ　
+[21-Sep-2019 09:55:02 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 09:55:02 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 09:55:02 Asia/Tokyo] デバッグ：セッションID：ac94218083c91d9954fc5e5d1668f32c
+[21-Sep-2019 09:55:02 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[21-Sep-2019 09:55:02 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569027302
+[21-Sep-2019 09:56:20 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 09:56:20 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 09:56:20 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 09:56:20 Asia/Tokyo] デバッグ：「　ユーザー登録ページ　
+[21-Sep-2019 09:56:20 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 09:56:20 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 09:56:20 Asia/Tokyo] デバッグ：セッションID：5b675f92398dc06e821e4f48ef6d47bc
+[21-Sep-2019 09:56:20 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[21-Sep-2019 09:56:20 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569027380
+[21-Sep-2019 09:56:21 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 09:56:21 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 09:56:21 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 09:56:21 Asia/Tokyo] デバッグ：「　ユーザー登録ページ　
+[21-Sep-2019 09:56:21 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 09:56:21 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 09:56:21 Asia/Tokyo] デバッグ：セッションID：dc9013c579ecf3752b0b7104f27344d3
+[21-Sep-2019 09:56:21 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[21-Sep-2019 09:56:21 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569027381
+[21-Sep-2019 09:57:49 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 09:57:49 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 09:57:49 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 09:57:49 Asia/Tokyo] デバッグ：「　ユーザー登録ページ　
+[21-Sep-2019 09:57:49 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 09:57:49 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 09:57:49 Asia/Tokyo] デバッグ：セッションID：9e96169e2c3d5327fbc026b5308ad303
+[21-Sep-2019 09:57:49 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[21-Sep-2019 09:57:49 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569027469
+[21-Sep-2019 09:57:49 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 09:57:49 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 09:57:49 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 09:57:49 Asia/Tokyo] デバッグ：「　ユーザー登録ページ　
+[21-Sep-2019 09:57:49 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 09:57:49 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 09:57:49 Asia/Tokyo] デバッグ：セッションID：3a3e1ba8bc743dca3d2031fb9811f711
+[21-Sep-2019 09:57:49 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[21-Sep-2019 09:57:49 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569027469
+[21-Sep-2019 10:00:10 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:00:10 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:00:10 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:00:10 Asia/Tokyo] デバッグ：「　ユーザー登録ページ　
+[21-Sep-2019 10:00:10 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:00:10 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:00:10 Asia/Tokyo] デバッグ：セッションID：cc6b53b1be8853fb2ab3e4d9dc1ce5ee
+[21-Sep-2019 10:00:10 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[21-Sep-2019 10:00:10 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569027610
+[21-Sep-2019 10:00:21 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:00:21 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:00:21 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:00:21 Asia/Tokyo] デバッグ：「　ユーザー登録ページ　
+[21-Sep-2019 10:00:21 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:00:21 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:00:21 Asia/Tokyo] デバッグ：セッションID：d66dc6c33602714d0d7a09831ed61f9f
+[21-Sep-2019 10:00:21 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[21-Sep-2019 10:00:21 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569027621
+[21-Sep-2019 10:01:10 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:01:10 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:01:10 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:01:10 Asia/Tokyo] デバッグ：「　ユーザー登録ページ　
+[21-Sep-2019 10:01:10 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:01:10 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:01:10 Asia/Tokyo] デバッグ：セッションID：54587dcfe43993dbd543e90885df07d1
+[21-Sep-2019 10:01:10 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[21-Sep-2019 10:01:10 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569027670
+[21-Sep-2019 10:01:19 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:01:19 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:01:19 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:01:19 Asia/Tokyo] デバッグ：「　ユーザー登録ページ　
+[21-Sep-2019 10:01:19 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:01:19 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:01:19 Asia/Tokyo] デバッグ：セッションID：d546f617b6b107c3db9491f75322221d
+[21-Sep-2019 10:01:19 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[21-Sep-2019 10:01:19 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569027679
+[21-Sep-2019 10:01:54 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:01:54 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:01:54 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:01:54 Asia/Tokyo] デバッグ：「　ユーザー登録ページ　
+[21-Sep-2019 10:01:54 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:01:54 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:01:54 Asia/Tokyo] デバッグ：セッションID：5c917bbd2f15331f15e97ead30a22c21
+[21-Sep-2019 10:01:54 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[21-Sep-2019 10:01:54 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569027714
+[21-Sep-2019 10:02:20 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:02:20 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:02:20 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:02:20 Asia/Tokyo] デバッグ：「　ユーザー登録ページ　
+[21-Sep-2019 10:02:20 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:02:20 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:02:20 Asia/Tokyo] デバッグ：セッションID：c345e31243eb18605feb3e12207a2b89
+[21-Sep-2019 10:02:20 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[21-Sep-2019 10:02:20 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569027740
+[21-Sep-2019 10:02:20 Asia/Tokyo] デバッグ：フォームチェック完了！
+[21-Sep-2019 10:02:20 Asia/Tokyo] デバッグ：$formchecker=>>>Array
+(
+)
+
+[21-Sep-2019 10:02:20 Asia/Tokyo] デバッグ：フォームに問題ありませんでした
+[21-Sep-2019 10:02:20 Asia/Tokyo] デバッグ：----ログイン処理---
+[21-Sep-2019 10:02:20 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:02:20 Asia/Tokyo] デバッグ：クエリ成功
+[21-Sep-2019 10:02:20 Asia/Tokyo] デバッグ：ユーザー認証成功。
+[21-Sep-2019 10:02:20 Asia/Tokyo] デバッグ：$_SESSION["user_id"]=>>39
+[21-Sep-2019 10:02:20 Asia/Tokyo] デバッグ：メッセージをセットします：おかえりなさい！
+[21-Sep-2019 10:02:20 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:02:20 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:02:20 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:02:20 Asia/Tokyo] デバッグ：「　メインボードページ　
+[21-Sep-2019 10:02:20 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:02:20 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:02:20 Asia/Tokyo] デバッグ：セッションID：bbf0485796a3d36d118aa5765bfa6aa0
+[21-Sep-2019 10:02:20 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569027740
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => おかえりなさい！
+)
+
+[21-Sep-2019 10:02:20 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569027740
+[21-Sep-2019 10:02:20 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:02:20 Asia/Tokyo] デバッグ：「　認証ページ　
+[21-Sep-2019 10:02:20 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:02:20 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:02:20 Asia/Tokyo] デバッグ：セッションID：bbf0485796a3d36d118aa5765bfa6aa0
+[21-Sep-2019 10:02:20 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569027740
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => おかえりなさい！
+)
+
+[21-Sep-2019 10:02:20 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569027740
+[21-Sep-2019 10:02:20 Asia/Tokyo] デバッグ：ログインユーザーです
+[21-Sep-2019 10:02:20 Asia/Tokyo] デバッグ：制限時間内です。
+[21-Sep-2019 10:02:20 Asia/Tokyo] デバッグ：勉強項目をすべて取得します
+[21-Sep-2019 10:02:20 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:02:20 Asia/Tokyo] デバッグ：クエリに成功しました
+[21-Sep-2019 10:02:20 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:02:20 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:02:20 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:02:20 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:02:20 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:02:20 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:02:20 Asia/Tokyo] デバッグ：取得した全項目: Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [name] => CSS設計
+            [time] => 00:09:56
+        )
+
+    [1] => Array
+        (
+            [id] => 3
+            [name] => Wordpress部
+            [time] => 00:20:31
+        )
+
+    [2] => Array
+        (
+            [id] => 6
+            [name] => PHPフレームワーク
+            [time] => 00:51:19
+        )
+
+    [3] => Array
+        (
+            [id] => 7
+            [name] => Javascript 上級
+            [time] => 01:06:37
+        )
+
+    [4] => Array
+        (
+            [id] => 10
+            [name] => デバック
+            [time] => 00:00:00
+        )
+
+    [5] => Array
+        (
+            [id] => 11
+            [name] => PHPフレームワーク　アウトプット
+            [time] => 02:00:25
+        )
+
+)
+
+[21-Sep-2019 10:02:20 Asia/Tokyo] デバッグ：メッセージ取得します：おかえりなさい！
+[21-Sep-2019 10:02:20 Asia/Tokyo] デバッグ：メッセージを表示します。
+[21-Sep-2019 10:02:20 Asia/Tokyo] デバッグ：メッセージ内容：おかえりなさい！
+[21-Sep-2019 10:02:38 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:02:38 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:02:38 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:02:38 Asia/Tokyo] デバッグ：「　メインボードページ　
+[21-Sep-2019 10:02:38 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:02:38 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:02:38 Asia/Tokyo] デバッグ：セッションID：e9715984dbdfd2ec94db3d0cad477d4c
+[21-Sep-2019 10:02:38 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569027740
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:02:38 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569027758
+[21-Sep-2019 10:02:38 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:02:38 Asia/Tokyo] デバッグ：「　認証ページ　
+[21-Sep-2019 10:02:38 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:02:38 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:02:38 Asia/Tokyo] デバッグ：セッションID：e9715984dbdfd2ec94db3d0cad477d4c
+[21-Sep-2019 10:02:38 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569027740
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:02:38 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569027758
+[21-Sep-2019 10:02:38 Asia/Tokyo] デバッグ：ログインユーザーです
+[21-Sep-2019 10:02:38 Asia/Tokyo] デバッグ：制限時間内です。
+[21-Sep-2019 10:02:38 Asia/Tokyo] デバッグ：勉強項目をすべて取得します
+[21-Sep-2019 10:02:38 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:02:38 Asia/Tokyo] デバッグ：クエリに成功しました
+[21-Sep-2019 10:02:38 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:02:38 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:02:38 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:02:38 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:02:38 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:02:38 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:02:38 Asia/Tokyo] デバッグ：取得した全項目: Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [name] => CSS設計
+            [time] => 00:09:56
+        )
+
+    [1] => Array
+        (
+            [id] => 3
+            [name] => Wordpress部
+            [time] => 00:20:31
+        )
+
+    [2] => Array
+        (
+            [id] => 6
+            [name] => PHPフレームワーク
+            [time] => 00:51:19
+        )
+
+    [3] => Array
+        (
+            [id] => 7
+            [name] => Javascript 上級
+            [time] => 01:06:37
+        )
+
+    [4] => Array
+        (
+            [id] => 10
+            [name] => デバック
+            [time] => 00:00:00
+        )
+
+    [5] => Array
+        (
+            [id] => 11
+            [name] => PHPフレームワーク　アウトプット
+            [time] => 02:00:25
+        )
+
+)
+
+[21-Sep-2019 10:02:38 Asia/Tokyo] デバッグ：メッセージ取得します：
+[21-Sep-2019 10:03:00 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:03:00 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:03:00 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:03:00 Asia/Tokyo] デバッグ：「　メインボードページ　
+[21-Sep-2019 10:03:00 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:03:00 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:03:00 Asia/Tokyo] デバッグ：セッションID：23d1fec48fa1a00e767479e50ed96f88
+[21-Sep-2019 10:03:00 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569027758
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:03:00 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569027780
+[21-Sep-2019 10:03:00 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:03:00 Asia/Tokyo] デバッグ：「　認証ページ　
+[21-Sep-2019 10:03:00 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:03:00 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:03:00 Asia/Tokyo] デバッグ：セッションID：23d1fec48fa1a00e767479e50ed96f88
+[21-Sep-2019 10:03:00 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569027758
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:03:00 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569027780
+[21-Sep-2019 10:03:00 Asia/Tokyo] デバッグ：ログインユーザーです
+[21-Sep-2019 10:03:00 Asia/Tokyo] デバッグ：制限時間内です。
+[21-Sep-2019 10:03:00 Asia/Tokyo] デバッグ：勉強項目をすべて取得します
+[21-Sep-2019 10:03:00 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:03:00 Asia/Tokyo] デバッグ：クエリに成功しました
+[21-Sep-2019 10:03:00 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:03:00 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:03:00 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:03:00 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:03:00 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:03:00 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:03:00 Asia/Tokyo] デバッグ：取得した全項目: Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [name] => CSS設計
+            [time] => 00:09:56
+        )
+
+    [1] => Array
+        (
+            [id] => 3
+            [name] => Wordpress部
+            [time] => 00:20:31
+        )
+
+    [2] => Array
+        (
+            [id] => 6
+            [name] => PHPフレームワーク
+            [time] => 00:51:19
+        )
+
+    [3] => Array
+        (
+            [id] => 7
+            [name] => Javascript 上級
+            [time] => 01:06:37
+        )
+
+    [4] => Array
+        (
+            [id] => 10
+            [name] => デバック
+            [time] => 00:00:00
+        )
+
+    [5] => Array
+        (
+            [id] => 11
+            [name] => PHPフレームワーク　アウトプット
+            [time] => 02:00:25
+        )
+
+)
+
+[21-Sep-2019 10:03:00 Asia/Tokyo] デバッグ：メッセージ取得します：
+[21-Sep-2019 10:03:07 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:03:07 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:03:07 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:03:07 Asia/Tokyo] デバッグ：「　メインボードページ　
+[21-Sep-2019 10:03:07 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:03:07 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:03:07 Asia/Tokyo] デバッグ：セッションID：be665f5a8c6b15997833783be1bc57a1
+[21-Sep-2019 10:03:07 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569027780
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:03:07 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569027787
+[21-Sep-2019 10:03:07 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:03:07 Asia/Tokyo] デバッグ：「　認証ページ　
+[21-Sep-2019 10:03:07 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:03:07 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:03:07 Asia/Tokyo] デバッグ：セッションID：be665f5a8c6b15997833783be1bc57a1
+[21-Sep-2019 10:03:07 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569027780
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:03:07 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569027787
+[21-Sep-2019 10:03:07 Asia/Tokyo] デバッグ：ログインユーザーです
+[21-Sep-2019 10:03:07 Asia/Tokyo] デバッグ：制限時間内です。
+[21-Sep-2019 10:03:07 Asia/Tokyo] デバッグ：勉強項目をすべて取得します
+[21-Sep-2019 10:03:07 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:03:07 Asia/Tokyo] デバッグ：クエリに成功しました
+[21-Sep-2019 10:03:07 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:03:07 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:03:07 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:03:07 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:03:07 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:03:07 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:03:07 Asia/Tokyo] デバッグ：取得した全項目: Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [name] => CSS設計
+            [time] => 00:09:56
+        )
+
+    [1] => Array
+        (
+            [id] => 3
+            [name] => Wordpress部
+            [time] => 00:20:31
+        )
+
+    [2] => Array
+        (
+            [id] => 6
+            [name] => PHPフレームワーク
+            [time] => 00:51:19
+        )
+
+    [3] => Array
+        (
+            [id] => 7
+            [name] => Javascript 上級
+            [time] => 01:06:37
+        )
+
+    [4] => Array
+        (
+            [id] => 10
+            [name] => デバック
+            [time] => 00:00:00
+        )
+
+    [5] => Array
+        (
+            [id] => 11
+            [name] => PHPフレームワーク　アウトプット
+            [time] => 02:00:25
+        )
+
+)
+
+[21-Sep-2019 10:03:07 Asia/Tokyo] デバッグ：メッセージ取得します：
+[21-Sep-2019 10:03:22 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:03:22 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:03:22 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:03:22 Asia/Tokyo] デバッグ：「　メインボードページ　
+[21-Sep-2019 10:03:22 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:03:22 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:03:22 Asia/Tokyo] デバッグ：セッションID：7580368f98cf87cc626ad2ac9bb0e6bd
+[21-Sep-2019 10:03:22 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569027787
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:03:22 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569027802
+[21-Sep-2019 10:03:22 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:03:22 Asia/Tokyo] デバッグ：「　認証ページ　
+[21-Sep-2019 10:03:22 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:03:22 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:03:22 Asia/Tokyo] デバッグ：セッションID：7580368f98cf87cc626ad2ac9bb0e6bd
+[21-Sep-2019 10:03:22 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569027787
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:03:22 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569027802
+[21-Sep-2019 10:03:22 Asia/Tokyo] デバッグ：ログインユーザーです
+[21-Sep-2019 10:03:22 Asia/Tokyo] デバッグ：制限時間内です。
+[21-Sep-2019 10:03:22 Asia/Tokyo] デバッグ：勉強項目をすべて取得します
+[21-Sep-2019 10:03:22 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:03:22 Asia/Tokyo] デバッグ：クエリに成功しました
+[21-Sep-2019 10:03:22 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:03:22 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:03:22 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:03:22 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:03:22 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:03:22 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:03:22 Asia/Tokyo] デバッグ：取得した全項目: Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [name] => CSS設計
+            [time] => 00:09:56
+        )
+
+    [1] => Array
+        (
+            [id] => 3
+            [name] => Wordpress部
+            [time] => 00:20:31
+        )
+
+    [2] => Array
+        (
+            [id] => 6
+            [name] => PHPフレームワーク
+            [time] => 00:51:19
+        )
+
+    [3] => Array
+        (
+            [id] => 7
+            [name] => Javascript 上級
+            [time] => 01:06:37
+        )
+
+    [4] => Array
+        (
+            [id] => 10
+            [name] => デバック
+            [time] => 00:00:00
+        )
+
+    [5] => Array
+        (
+            [id] => 11
+            [name] => PHPフレームワーク　アウトプット
+            [time] => 02:00:25
+        )
+
+)
+
+[21-Sep-2019 10:03:22 Asia/Tokyo] デバッグ：メッセージ取得します：
+[21-Sep-2019 10:03:34 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:03:34 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:03:34 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:03:34 Asia/Tokyo] デバッグ：「　メインボードページ　
+[21-Sep-2019 10:03:34 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:03:35 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:03:35 Asia/Tokyo] デバッグ：セッションID：581767d2aa9fc3824575759ac26424a7
+[21-Sep-2019 10:03:35 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569027802
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:03:35 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569027815
+[21-Sep-2019 10:03:35 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:03:35 Asia/Tokyo] デバッグ：「　認証ページ　
+[21-Sep-2019 10:03:35 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:03:35 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:03:35 Asia/Tokyo] デバッグ：セッションID：581767d2aa9fc3824575759ac26424a7
+[21-Sep-2019 10:03:35 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569027802
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:03:35 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569027815
+[21-Sep-2019 10:03:35 Asia/Tokyo] デバッグ：ログインユーザーです
+[21-Sep-2019 10:03:35 Asia/Tokyo] デバッグ：制限時間内です。
+[21-Sep-2019 10:03:35 Asia/Tokyo] デバッグ：勉強項目をすべて取得します
+[21-Sep-2019 10:03:35 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:03:35 Asia/Tokyo] デバッグ：クエリに成功しました
+[21-Sep-2019 10:03:35 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:03:35 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:03:35 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:03:35 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:03:35 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:03:35 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:03:35 Asia/Tokyo] デバッグ：取得した全項目: Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [name] => CSS設計
+            [time] => 00:09:56
+        )
+
+    [1] => Array
+        (
+            [id] => 3
+            [name] => Wordpress部
+            [time] => 00:20:31
+        )
+
+    [2] => Array
+        (
+            [id] => 6
+            [name] => PHPフレームワーク
+            [time] => 00:51:19
+        )
+
+    [3] => Array
+        (
+            [id] => 7
+            [name] => Javascript 上級
+            [time] => 01:06:37
+        )
+
+    [4] => Array
+        (
+            [id] => 10
+            [name] => デバック
+            [time] => 00:00:00
+        )
+
+    [5] => Array
+        (
+            [id] => 11
+            [name] => PHPフレームワーク　アウトプット
+            [time] => 02:00:25
+        )
+
+)
+
+[21-Sep-2019 10:03:35 Asia/Tokyo] デバッグ：メッセージ取得します：
+[21-Sep-2019 10:03:58 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:03:58 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:03:58 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:03:58 Asia/Tokyo] デバッグ：「　メインボードページ　
+[21-Sep-2019 10:03:58 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:03:58 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:03:58 Asia/Tokyo] デバッグ：セッションID：bec06ad931c5dd5e2aa49ca924988672
+[21-Sep-2019 10:03:58 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569027815
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:03:58 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569027838
+[21-Sep-2019 10:03:58 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:03:58 Asia/Tokyo] デバッグ：「　認証ページ　
+[21-Sep-2019 10:03:58 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:03:58 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:03:58 Asia/Tokyo] デバッグ：セッションID：bec06ad931c5dd5e2aa49ca924988672
+[21-Sep-2019 10:03:58 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569027815
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:03:58 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569027838
+[21-Sep-2019 10:03:58 Asia/Tokyo] デバッグ：ログインユーザーです
+[21-Sep-2019 10:03:58 Asia/Tokyo] デバッグ：制限時間内です。
+[21-Sep-2019 10:03:58 Asia/Tokyo] デバッグ：勉強項目をすべて取得します
+[21-Sep-2019 10:03:58 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:03:58 Asia/Tokyo] デバッグ：クエリに成功しました
+[21-Sep-2019 10:03:58 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:03:58 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:03:58 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:03:58 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:03:58 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:03:58 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:03:58 Asia/Tokyo] デバッグ：取得した全項目: Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [name] => CSS設計
+            [time] => 00:09:56
+        )
+
+    [1] => Array
+        (
+            [id] => 3
+            [name] => Wordpress部
+            [time] => 00:20:31
+        )
+
+    [2] => Array
+        (
+            [id] => 6
+            [name] => PHPフレームワーク
+            [time] => 00:51:19
+        )
+
+    [3] => Array
+        (
+            [id] => 7
+            [name] => Javascript 上級
+            [time] => 01:06:37
+        )
+
+    [4] => Array
+        (
+            [id] => 10
+            [name] => デバック
+            [time] => 00:00:00
+        )
+
+    [5] => Array
+        (
+            [id] => 11
+            [name] => PHPフレームワーク　アウトプット
+            [time] => 02:00:25
+        )
+
+)
+
+[21-Sep-2019 10:03:58 Asia/Tokyo] デバッグ：メッセージ取得します：
+[21-Sep-2019 10:05:08 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:05:08 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:05:08 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:05:08 Asia/Tokyo] デバッグ：「　メインボードページ　
+[21-Sep-2019 10:05:08 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:05:08 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:05:08 Asia/Tokyo] デバッグ：セッションID：40760e6fcc40ccc2b2b88f0f295052cf
+[21-Sep-2019 10:05:08 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569027838
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:05:08 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569027908
+[21-Sep-2019 10:05:08 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:05:08 Asia/Tokyo] デバッグ：「　認証ページ　
+[21-Sep-2019 10:05:08 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:05:08 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:05:08 Asia/Tokyo] デバッグ：セッションID：40760e6fcc40ccc2b2b88f0f295052cf
+[21-Sep-2019 10:05:08 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569027838
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:05:08 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569027908
+[21-Sep-2019 10:05:08 Asia/Tokyo] デバッグ：ログインユーザーです
+[21-Sep-2019 10:05:08 Asia/Tokyo] デバッグ：制限時間内です。
+[21-Sep-2019 10:05:08 Asia/Tokyo] デバッグ：勉強項目をすべて取得します
+[21-Sep-2019 10:05:08 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:05:08 Asia/Tokyo] デバッグ：クエリに成功しました
+[21-Sep-2019 10:05:08 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:05:08 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:05:08 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:05:08 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:05:08 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:05:08 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:05:08 Asia/Tokyo] デバッグ：取得した全項目: Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [name] => CSS設計
+            [time] => 00:09:56
+        )
+
+    [1] => Array
+        (
+            [id] => 3
+            [name] => Wordpress部
+            [time] => 00:20:31
+        )
+
+    [2] => Array
+        (
+            [id] => 6
+            [name] => PHPフレームワーク
+            [time] => 00:51:19
+        )
+
+    [3] => Array
+        (
+            [id] => 7
+            [name] => Javascript 上級
+            [time] => 01:06:37
+        )
+
+    [4] => Array
+        (
+            [id] => 10
+            [name] => デバック
+            [time] => 00:00:00
+        )
+
+    [5] => Array
+        (
+            [id] => 11
+            [name] => PHPフレームワーク　アウトプット
+            [time] => 02:00:25
+        )
+
+)
+
+[21-Sep-2019 10:05:08 Asia/Tokyo] デバッグ：メッセージ取得します：
+[21-Sep-2019 10:07:51 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:07:51 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:07:51 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:07:51 Asia/Tokyo] デバッグ：「　メインボードページ　
+[21-Sep-2019 10:07:51 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:07:51 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:07:51 Asia/Tokyo] デバッグ：セッションID：fa798e350deff16023fe3d4b2aea4b49
+[21-Sep-2019 10:07:51 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569027908
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:07:51 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028071
+[21-Sep-2019 10:07:51 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:07:51 Asia/Tokyo] デバッグ：「　認証ページ　
+[21-Sep-2019 10:07:51 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:07:51 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:07:51 Asia/Tokyo] デバッグ：セッションID：fa798e350deff16023fe3d4b2aea4b49
+[21-Sep-2019 10:07:51 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569027908
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:07:51 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028071
+[21-Sep-2019 10:07:51 Asia/Tokyo] デバッグ：ログインユーザーです
+[21-Sep-2019 10:07:51 Asia/Tokyo] デバッグ：制限時間内です。
+[21-Sep-2019 10:07:51 Asia/Tokyo] デバッグ：勉強項目をすべて取得します
+[21-Sep-2019 10:07:51 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:07:51 Asia/Tokyo] デバッグ：クエリに成功しました
+[21-Sep-2019 10:07:51 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:07:51 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:07:51 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:07:51 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:07:51 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:07:51 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:07:51 Asia/Tokyo] デバッグ：取得した全項目: Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [name] => CSS設計
+            [time] => 00:09:56
+        )
+
+    [1] => Array
+        (
+            [id] => 3
+            [name] => Wordpress部
+            [time] => 00:20:31
+        )
+
+    [2] => Array
+        (
+            [id] => 6
+            [name] => PHPフレームワーク
+            [time] => 00:51:19
+        )
+
+    [3] => Array
+        (
+            [id] => 7
+            [name] => Javascript 上級
+            [time] => 01:06:37
+        )
+
+    [4] => Array
+        (
+            [id] => 10
+            [name] => デバック
+            [time] => 00:00:00
+        )
+
+    [5] => Array
+        (
+            [id] => 11
+            [name] => PHPフレームワーク　アウトプット
+            [time] => 02:00:25
+        )
+
+)
+
+[21-Sep-2019 10:07:51 Asia/Tokyo] デバッグ：メッセージ取得します：
+[21-Sep-2019 10:07:57 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:07:57 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:07:57 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:07:57 Asia/Tokyo] デバッグ：「　ユーザー登録ページ　
+[21-Sep-2019 10:07:57 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:07:57 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:07:57 Asia/Tokyo] デバッグ：セッションID：0b822a0abb536765e94e87f3e1c5c05d
+[21-Sep-2019 10:07:57 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028071
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:07:57 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028077
+[21-Sep-2019 10:07:57 Asia/Tokyo] デバッグ：ユーザー情報を取得します
+[21-Sep-2019 10:07:57 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:07:57 Asia/Tokyo] デバッグ：ユーザー情報の取得に成功しました
+[21-Sep-2019 10:07:57 Asia/Tokyo] デバッグ：メッセージ取得します：
+[21-Sep-2019 10:08:01 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:08:01 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:08:01 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:08:01 Asia/Tokyo] デバッグ：「　メインボードページ　
+[21-Sep-2019 10:08:01 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:08:01 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:08:01 Asia/Tokyo] デバッグ：セッションID：fb58fd13195a10e808ef1fe67073d0fc
+[21-Sep-2019 10:08:01 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028071
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:08:01 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028081
+[21-Sep-2019 10:08:01 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:08:01 Asia/Tokyo] デバッグ：「　認証ページ　
+[21-Sep-2019 10:08:01 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:08:01 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:08:01 Asia/Tokyo] デバッグ：セッションID：fb58fd13195a10e808ef1fe67073d0fc
+[21-Sep-2019 10:08:01 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028071
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:08:01 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028081
+[21-Sep-2019 10:08:01 Asia/Tokyo] デバッグ：ログインユーザーです
+[21-Sep-2019 10:08:01 Asia/Tokyo] デバッグ：制限時間内です。
+[21-Sep-2019 10:08:01 Asia/Tokyo] デバッグ：勉強項目をすべて取得します
+[21-Sep-2019 10:08:01 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:08:01 Asia/Tokyo] デバッグ：クエリに成功しました
+[21-Sep-2019 10:08:01 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:08:01 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:08:01 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:08:01 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:08:01 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:08:01 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:08:01 Asia/Tokyo] デバッグ：取得した全項目: Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [name] => CSS設計
+            [time] => 00:09:56
+        )
+
+    [1] => Array
+        (
+            [id] => 3
+            [name] => Wordpress部
+            [time] => 00:20:31
+        )
+
+    [2] => Array
+        (
+            [id] => 6
+            [name] => PHPフレームワーク
+            [time] => 00:51:19
+        )
+
+    [3] => Array
+        (
+            [id] => 7
+            [name] => Javascript 上級
+            [time] => 01:06:37
+        )
+
+    [4] => Array
+        (
+            [id] => 10
+            [name] => デバック
+            [time] => 00:00:00
+        )
+
+    [5] => Array
+        (
+            [id] => 11
+            [name] => PHPフレームワーク　アウトプット
+            [time] => 02:00:25
+        )
+
+)
+
+[21-Sep-2019 10:08:01 Asia/Tokyo] デバッグ：メッセージ取得します：
+[21-Sep-2019 10:09:34 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:09:34 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:09:34 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:09:34 Asia/Tokyo] デバッグ：「　メインボードページ　
+[21-Sep-2019 10:09:34 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:09:34 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:09:34 Asia/Tokyo] デバッグ：セッションID：9fe5101547aa5ce726bea767aba3d9cc
+[21-Sep-2019 10:09:34 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028081
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:09:34 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028174
+[21-Sep-2019 10:09:34 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:09:34 Asia/Tokyo] デバッグ：「　認証ページ　
+[21-Sep-2019 10:09:34 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:09:34 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:09:34 Asia/Tokyo] デバッグ：セッションID：9fe5101547aa5ce726bea767aba3d9cc
+[21-Sep-2019 10:09:34 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028081
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:09:34 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028174
+[21-Sep-2019 10:09:34 Asia/Tokyo] デバッグ：ログインユーザーです
+[21-Sep-2019 10:09:34 Asia/Tokyo] デバッグ：制限時間内です。
+[21-Sep-2019 10:09:34 Asia/Tokyo] デバッグ：勉強項目をすべて取得します
+[21-Sep-2019 10:09:34 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:09:34 Asia/Tokyo] デバッグ：クエリに成功しました
+[21-Sep-2019 10:09:34 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:09:34 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:09:34 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:09:34 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:09:34 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:09:34 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:09:34 Asia/Tokyo] デバッグ：取得した全項目: Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [name] => CSS設計
+            [time] => 00:09:56
+        )
+
+    [1] => Array
+        (
+            [id] => 3
+            [name] => Wordpress部
+            [time] => 00:20:31
+        )
+
+    [2] => Array
+        (
+            [id] => 6
+            [name] => PHPフレームワーク
+            [time] => 00:51:19
+        )
+
+    [3] => Array
+        (
+            [id] => 7
+            [name] => Javascript 上級
+            [time] => 01:06:37
+        )
+
+    [4] => Array
+        (
+            [id] => 10
+            [name] => デバック
+            [time] => 00:00:00
+        )
+
+    [5] => Array
+        (
+            [id] => 11
+            [name] => PHPフレームワーク　アウトプット
+            [time] => 02:00:25
+        )
+
+)
+
+[21-Sep-2019 10:09:34 Asia/Tokyo] デバッグ：メッセージ取得します：
+[21-Sep-2019 10:10:19 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:10:19 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:10:19 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:10:19 Asia/Tokyo] デバッグ：「　メインボードページ　
+[21-Sep-2019 10:10:19 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:10:19 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:10:19 Asia/Tokyo] デバッグ：セッションID：f8659d6cb67f08a073ec504c3ad71c46
+[21-Sep-2019 10:10:19 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028174
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:10:19 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028219
+[21-Sep-2019 10:10:19 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:10:19 Asia/Tokyo] デバッグ：「　認証ページ　
+[21-Sep-2019 10:10:19 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:10:19 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:10:19 Asia/Tokyo] デバッグ：セッションID：f8659d6cb67f08a073ec504c3ad71c46
+[21-Sep-2019 10:10:19 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028174
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:10:19 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028219
+[21-Sep-2019 10:10:19 Asia/Tokyo] デバッグ：ログインユーザーです
+[21-Sep-2019 10:10:19 Asia/Tokyo] デバッグ：制限時間内です。
+[21-Sep-2019 10:10:19 Asia/Tokyo] デバッグ：勉強項目をすべて取得します
+[21-Sep-2019 10:10:19 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:10:19 Asia/Tokyo] デバッグ：クエリに成功しました
+[21-Sep-2019 10:10:19 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:10:19 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:10:19 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:10:19 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:10:19 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:10:19 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:10:19 Asia/Tokyo] デバッグ：取得した全項目: Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [name] => CSS設計
+            [time] => 00:09:56
+        )
+
+    [1] => Array
+        (
+            [id] => 3
+            [name] => Wordpress部
+            [time] => 00:20:31
+        )
+
+    [2] => Array
+        (
+            [id] => 6
+            [name] => PHPフレームワーク
+            [time] => 00:51:19
+        )
+
+    [3] => Array
+        (
+            [id] => 7
+            [name] => Javascript 上級
+            [time] => 01:06:37
+        )
+
+    [4] => Array
+        (
+            [id] => 10
+            [name] => デバック
+            [time] => 00:00:00
+        )
+
+    [5] => Array
+        (
+            [id] => 11
+            [name] => PHPフレームワーク　アウトプット
+            [time] => 02:00:25
+        )
+
+)
+
+[21-Sep-2019 10:10:19 Asia/Tokyo] デバッグ：メッセージ取得します：
+[21-Sep-2019 10:10:27 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:10:27 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:10:27 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:10:27 Asia/Tokyo] デバッグ：「　メインボードページ　
+[21-Sep-2019 10:10:27 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:10:27 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:10:27 Asia/Tokyo] デバッグ：セッションID：a3aa9c6138ec75a352be5b7d4521dc65
+[21-Sep-2019 10:10:27 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028219
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:10:27 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028227
+[21-Sep-2019 10:10:27 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:10:27 Asia/Tokyo] デバッグ：「　認証ページ　
+[21-Sep-2019 10:10:27 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:10:27 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:10:27 Asia/Tokyo] デバッグ：セッションID：a3aa9c6138ec75a352be5b7d4521dc65
+[21-Sep-2019 10:10:27 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028219
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:10:27 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028227
+[21-Sep-2019 10:10:27 Asia/Tokyo] デバッグ：ログインユーザーです
+[21-Sep-2019 10:10:27 Asia/Tokyo] デバッグ：制限時間内です。
+[21-Sep-2019 10:10:27 Asia/Tokyo] デバッグ：勉強項目をすべて取得します
+[21-Sep-2019 10:10:27 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:10:27 Asia/Tokyo] デバッグ：クエリに成功しました
+[21-Sep-2019 10:10:27 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:10:27 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:10:27 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:10:27 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:10:27 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:10:27 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:10:27 Asia/Tokyo] デバッグ：取得した全項目: Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [name] => CSS設計
+            [time] => 00:09:56
+        )
+
+    [1] => Array
+        (
+            [id] => 3
+            [name] => Wordpress部
+            [time] => 00:20:31
+        )
+
+    [2] => Array
+        (
+            [id] => 6
+            [name] => PHPフレームワーク
+            [time] => 00:51:19
+        )
+
+    [3] => Array
+        (
+            [id] => 7
+            [name] => Javascript 上級
+            [time] => 01:06:37
+        )
+
+    [4] => Array
+        (
+            [id] => 10
+            [name] => デバック
+            [time] => 00:00:00
+        )
+
+    [5] => Array
+        (
+            [id] => 11
+            [name] => PHPフレームワーク　アウトプット
+            [time] => 02:00:25
+        )
+
+)
+
+[21-Sep-2019 10:10:27 Asia/Tokyo] デバッグ：メッセージ取得します：
+[21-Sep-2019 10:11:02 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:11:02 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:11:02 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:11:02 Asia/Tokyo] デバッグ：「　メインボードページ　
+[21-Sep-2019 10:11:02 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:11:02 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:11:02 Asia/Tokyo] デバッグ：セッションID：c880b51fd48311b9ca8ead72df8d9e30
+[21-Sep-2019 10:11:02 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028227
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:11:02 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028262
+[21-Sep-2019 10:11:02 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:11:02 Asia/Tokyo] デバッグ：「　認証ページ　
+[21-Sep-2019 10:11:02 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:11:02 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:11:02 Asia/Tokyo] デバッグ：セッションID：c880b51fd48311b9ca8ead72df8d9e30
+[21-Sep-2019 10:11:02 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028227
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:11:02 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028262
+[21-Sep-2019 10:11:02 Asia/Tokyo] デバッグ：ログインユーザーです
+[21-Sep-2019 10:11:02 Asia/Tokyo] デバッグ：制限時間内です。
+[21-Sep-2019 10:11:02 Asia/Tokyo] デバッグ：勉強項目をすべて取得します
+[21-Sep-2019 10:11:02 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:11:02 Asia/Tokyo] デバッグ：クエリに成功しました
+[21-Sep-2019 10:11:02 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:11:02 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:11:02 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:11:02 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:11:02 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:11:02 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:11:02 Asia/Tokyo] デバッグ：取得した全項目: Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [name] => CSS設計
+            [time] => 00:09:56
+        )
+
+    [1] => Array
+        (
+            [id] => 3
+            [name] => Wordpress部
+            [time] => 00:20:31
+        )
+
+    [2] => Array
+        (
+            [id] => 6
+            [name] => PHPフレームワーク
+            [time] => 00:51:19
+        )
+
+    [3] => Array
+        (
+            [id] => 7
+            [name] => Javascript 上級
+            [time] => 01:06:37
+        )
+
+    [4] => Array
+        (
+            [id] => 10
+            [name] => デバック
+            [time] => 00:00:00
+        )
+
+    [5] => Array
+        (
+            [id] => 11
+            [name] => PHPフレームワーク　アウトプット
+            [time] => 02:00:25
+        )
+
+)
+
+[21-Sep-2019 10:11:02 Asia/Tokyo] デバッグ：メッセージ取得します：
+[21-Sep-2019 10:12:13 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:12:13 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:12:13 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:12:13 Asia/Tokyo] デバッグ：「　メインボードページ　
+[21-Sep-2019 10:12:13 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:12:13 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:12:13 Asia/Tokyo] デバッグ：セッションID：65ee236bf16b68cf71a34ae68dae0484
+[21-Sep-2019 10:12:13 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028262
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:12:13 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028333
+[21-Sep-2019 10:12:13 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:12:13 Asia/Tokyo] デバッグ：「　認証ページ　
+[21-Sep-2019 10:12:13 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:12:13 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:12:13 Asia/Tokyo] デバッグ：セッションID：65ee236bf16b68cf71a34ae68dae0484
+[21-Sep-2019 10:12:13 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028262
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:12:13 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028333
+[21-Sep-2019 10:12:13 Asia/Tokyo] デバッグ：ログインユーザーです
+[21-Sep-2019 10:12:13 Asia/Tokyo] デバッグ：制限時間内です。
+[21-Sep-2019 10:12:13 Asia/Tokyo] デバッグ：勉強項目をすべて取得します
+[21-Sep-2019 10:12:13 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:12:13 Asia/Tokyo] デバッグ：クエリに成功しました
+[21-Sep-2019 10:12:13 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:12:13 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:12:13 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:12:13 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:12:13 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:12:13 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:12:13 Asia/Tokyo] デバッグ：取得した全項目: Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [name] => CSS設計
+            [time] => 00:09:56
+        )
+
+    [1] => Array
+        (
+            [id] => 3
+            [name] => Wordpress部
+            [time] => 00:20:31
+        )
+
+    [2] => Array
+        (
+            [id] => 6
+            [name] => PHPフレームワーク
+            [time] => 00:51:19
+        )
+
+    [3] => Array
+        (
+            [id] => 7
+            [name] => Javascript 上級
+            [time] => 01:06:37
+        )
+
+    [4] => Array
+        (
+            [id] => 10
+            [name] => デバック
+            [time] => 00:00:00
+        )
+
+    [5] => Array
+        (
+            [id] => 11
+            [name] => PHPフレームワーク　アウトプット
+            [time] => 02:00:25
+        )
+
+)
+
+[21-Sep-2019 10:12:13 Asia/Tokyo] デバッグ：メッセージ取得します：
+[21-Sep-2019 10:12:47 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:12:47 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：「　Ajax　
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：セッションID：38cd83a23d949f4ad7809867e269e7e0
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028333
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028367
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：Ajax処理を開始
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：このProdictidを削除するよー＞10
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：勉強項目を削除します
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：項目の削除に成功しました
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：deleteSubjectに成功しました
+[21-Sep-2019 10:12:47 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:12:47 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：「　勉強項目ページ　
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：セッションID：81eba94032c55f59c3a675b33efe91c2
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028333
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028367
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：「　認証ページ　
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：セッションID：81eba94032c55f59c3a675b33efe91c2
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028333
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028367
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：ログインユーザーです
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：制限時間内です。
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：勉強項目を取得します
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：項目の取得に成功しました
+[21-Sep-2019 10:12:47 Asia/Tokyo] PHP Warning:  A non-numeric value encountered in C:\MAMP\htdocs\Study-Support\subject.php on line 24
+[21-Sep-2019 10:12:47 Asia/Tokyo] PHP Notice:  Undefined offset: 1 in C:\MAMP\htdocs\Study-Support\subject.php on line 24
+[21-Sep-2019 10:12:47 Asia/Tokyo] PHP Notice:  Undefined offset: 2 in C:\MAMP\htdocs\Study-Support\subject.php on line 24
+[21-Sep-2019 10:12:47 Asia/Tokyo] PHP Notice:  Undefined offset: 1 in C:\MAMP\htdocs\Study-Support\subject.php on line 46
+[21-Sep-2019 10:12:47 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:12:47 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：「　メインボードページ　
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：セッションID：bbce9a52a9969a0d9373fc4d80900a59
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028333
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028367
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：「　認証ページ　
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：セッションID：bbce9a52a9969a0d9373fc4d80900a59
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028333
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028367
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：ログインユーザーです
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：制限時間内です。
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：勉強項目をすべて取得します
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：クエリに成功しました
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：取得した全項目: Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [name] => CSS設計
+            [time] => 00:09:56
+        )
+
+    [1] => Array
+        (
+            [id] => 3
+            [name] => Wordpress部
+            [time] => 00:20:31
+        )
+
+    [2] => Array
+        (
+            [id] => 6
+            [name] => PHPフレームワーク
+            [time] => 00:51:19
+        )
+
+    [3] => Array
+        (
+            [id] => 7
+            [name] => Javascript 上級
+            [time] => 01:06:37
+        )
+
+    [4] => Array
+        (
+            [id] => 11
+            [name] => PHPフレームワーク　アウトプット
+            [time] => 02:00:25
+        )
+
+)
+
+[21-Sep-2019 10:12:47 Asia/Tokyo] デバッグ：メッセージ取得します：
+[21-Sep-2019 10:12:53 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:12:53 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:12:53 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:12:53 Asia/Tokyo] デバッグ：「　勉強項目ページ　
+[21-Sep-2019 10:12:53 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:12:53 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:12:53 Asia/Tokyo] デバッグ：セッションID：01d0ca80c5240c4449b904dcff45ab29
+[21-Sep-2019 10:12:53 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028367
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:12:53 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028373
+[21-Sep-2019 10:12:53 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:12:53 Asia/Tokyo] デバッグ：「　認証ページ　
+[21-Sep-2019 10:12:53 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:12:53 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:12:53 Asia/Tokyo] デバッグ：セッションID：01d0ca80c5240c4449b904dcff45ab29
+[21-Sep-2019 10:12:53 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028367
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:12:53 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028373
+[21-Sep-2019 10:12:53 Asia/Tokyo] デバッグ：ログインユーザーです
+[21-Sep-2019 10:12:53 Asia/Tokyo] デバッグ：制限時間内です。
+[21-Sep-2019 10:12:53 Asia/Tokyo] デバッグ：勉強項目を取得します
+[21-Sep-2019 10:12:53 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:12:53 Asia/Tokyo] デバッグ：項目の取得に成功しました
+[21-Sep-2019 10:12:56 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:12:56 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:12:56 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:12:56 Asia/Tokyo] デバッグ：「　メインボードページ　
+[21-Sep-2019 10:12:56 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:12:56 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:12:56 Asia/Tokyo] デバッグ：セッションID：71cc655a5f64f30ef26edd7b0c8b253a
+[21-Sep-2019 10:12:56 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028373
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:12:56 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028376
+[21-Sep-2019 10:12:56 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:12:56 Asia/Tokyo] デバッグ：「　認証ページ　
+[21-Sep-2019 10:12:56 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:12:56 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:12:56 Asia/Tokyo] デバッグ：セッションID：71cc655a5f64f30ef26edd7b0c8b253a
+[21-Sep-2019 10:12:56 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028373
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:12:56 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028376
+[21-Sep-2019 10:12:56 Asia/Tokyo] デバッグ：ログインユーザーです
+[21-Sep-2019 10:12:56 Asia/Tokyo] デバッグ：制限時間内です。
+[21-Sep-2019 10:12:56 Asia/Tokyo] デバッグ：勉強項目をすべて取得します
+[21-Sep-2019 10:12:56 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:12:56 Asia/Tokyo] デバッグ：クエリに成功しました
+[21-Sep-2019 10:12:56 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:12:56 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:12:56 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:12:56 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:12:56 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:12:56 Asia/Tokyo] デバッグ：取得した全項目: Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [name] => CSS設計
+            [time] => 00:09:56
+        )
+
+    [1] => Array
+        (
+            [id] => 3
+            [name] => Wordpress部
+            [time] => 00:20:31
+        )
+
+    [2] => Array
+        (
+            [id] => 6
+            [name] => PHPフレームワーク
+            [time] => 00:51:19
+        )
+
+    [3] => Array
+        (
+            [id] => 7
+            [name] => Javascript 上級
+            [time] => 01:06:37
+        )
+
+    [4] => Array
+        (
+            [id] => 11
+            [name] => PHPフレームワーク　アウトプット
+            [time] => 02:00:25
+        )
+
+)
+
+[21-Sep-2019 10:12:56 Asia/Tokyo] デバッグ：メッセージ取得します：
+[21-Sep-2019 10:13:02 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:13:02 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:13:02 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:13:02 Asia/Tokyo] デバッグ：「　勉強項目ページ　
+[21-Sep-2019 10:13:02 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:13:02 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:13:02 Asia/Tokyo] デバッグ：セッションID：b3cd20062141031f6d400f7124d91671
+[21-Sep-2019 10:13:02 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028376
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:13:02 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028382
+[21-Sep-2019 10:13:02 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:13:02 Asia/Tokyo] デバッグ：「　認証ページ　
+[21-Sep-2019 10:13:02 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:13:02 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:13:02 Asia/Tokyo] デバッグ：セッションID：b3cd20062141031f6d400f7124d91671
+[21-Sep-2019 10:13:02 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028376
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:13:02 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028382
+[21-Sep-2019 10:13:02 Asia/Tokyo] デバッグ：ログインユーザーです
+[21-Sep-2019 10:13:02 Asia/Tokyo] デバッグ：制限時間内です。
+[21-Sep-2019 10:13:02 Asia/Tokyo] デバッグ：勉強項目を取得します
+[21-Sep-2019 10:13:02 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:13:02 Asia/Tokyo] デバッグ：項目の取得に成功しました
+[21-Sep-2019 10:13:36 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:13:36 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:13:36 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:13:36 Asia/Tokyo] デバッグ：「　勉強項目ページ　
+[21-Sep-2019 10:13:36 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:13:36 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:13:36 Asia/Tokyo] デバッグ：セッションID：f2c55791d55ccd0fed30de3d95619202
+[21-Sep-2019 10:13:36 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028382
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:13:36 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028416
+[21-Sep-2019 10:13:36 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:13:36 Asia/Tokyo] デバッグ：「　認証ページ　
+[21-Sep-2019 10:13:36 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:13:36 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:13:36 Asia/Tokyo] デバッグ：セッションID：f2c55791d55ccd0fed30de3d95619202
+[21-Sep-2019 10:13:36 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028382
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:13:36 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028416
+[21-Sep-2019 10:13:36 Asia/Tokyo] デバッグ：ログインユーザーです
+[21-Sep-2019 10:13:36 Asia/Tokyo] デバッグ：制限時間内です。
+[21-Sep-2019 10:13:36 Asia/Tokyo] デバッグ：勉強項目を取得します
+[21-Sep-2019 10:13:36 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:13:36 Asia/Tokyo] デバッグ：項目の取得に成功しました
+[21-Sep-2019 10:13:36 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:13:36 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:13:36 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:13:36 Asia/Tokyo] デバッグ：「　ユーザー登録ページ　
+[21-Sep-2019 10:13:36 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:13:36 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:13:36 Asia/Tokyo] デバッグ：セッションID：de677c076bcb7c3b111ac67254f00804
+[21-Sep-2019 10:13:36 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028416
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:13:36 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028416
+[21-Sep-2019 10:13:40 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:13:40 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:13:40 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:13:40 Asia/Tokyo] デバッグ：「　メインボードページ　
+[21-Sep-2019 10:13:40 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:13:40 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:13:40 Asia/Tokyo] デバッグ：セッションID：ccad7bd9ee19fcab7f909cff5bd28716
+[21-Sep-2019 10:13:40 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028416
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:13:40 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028420
+[21-Sep-2019 10:13:40 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:13:40 Asia/Tokyo] デバッグ：「　認証ページ　
+[21-Sep-2019 10:13:40 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:13:40 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:13:40 Asia/Tokyo] デバッグ：セッションID：ccad7bd9ee19fcab7f909cff5bd28716
+[21-Sep-2019 10:13:40 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028416
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:13:40 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028420
+[21-Sep-2019 10:13:40 Asia/Tokyo] デバッグ：ログインユーザーです
+[21-Sep-2019 10:13:40 Asia/Tokyo] デバッグ：制限時間内です。
+[21-Sep-2019 10:13:40 Asia/Tokyo] デバッグ：勉強項目をすべて取得します
+[21-Sep-2019 10:13:40 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:13:40 Asia/Tokyo] デバッグ：クエリに成功しました
+[21-Sep-2019 10:13:40 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:13:40 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:13:40 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:13:40 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:13:40 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:13:40 Asia/Tokyo] デバッグ：取得した全項目: Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [name] => CSS設計
+            [time] => 00:09:56
+        )
+
+    [1] => Array
+        (
+            [id] => 3
+            [name] => Wordpress部
+            [time] => 00:20:31
+        )
+
+    [2] => Array
+        (
+            [id] => 6
+            [name] => PHPフレームワーク
+            [time] => 00:51:19
+        )
+
+    [3] => Array
+        (
+            [id] => 7
+            [name] => Javascript 上級
+            [time] => 01:06:37
+        )
+
+    [4] => Array
+        (
+            [id] => 11
+            [name] => PHPフレームワーク　アウトプット
+            [time] => 02:00:25
+        )
+
+)
+
+[21-Sep-2019 10:13:40 Asia/Tokyo] デバッグ：メッセージ取得します：
+[21-Sep-2019 10:14:07 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:14:07 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:14:07 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:14:07 Asia/Tokyo] デバッグ：「　メインボードページ　
+[21-Sep-2019 10:14:07 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:14:07 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:14:07 Asia/Tokyo] デバッグ：セッションID：cdb53e76af8594d90f0e3e13d6bdc74a
+[21-Sep-2019 10:14:07 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028420
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:14:07 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028447
+[21-Sep-2019 10:14:07 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:14:07 Asia/Tokyo] デバッグ：「　認証ページ　
+[21-Sep-2019 10:14:07 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:14:07 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:14:07 Asia/Tokyo] デバッグ：セッションID：cdb53e76af8594d90f0e3e13d6bdc74a
+[21-Sep-2019 10:14:07 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028420
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:14:07 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028447
+[21-Sep-2019 10:14:07 Asia/Tokyo] デバッグ：ログインユーザーです
+[21-Sep-2019 10:14:07 Asia/Tokyo] デバッグ：制限時間内です。
+[21-Sep-2019 10:14:07 Asia/Tokyo] デバッグ：勉強項目をすべて取得します
+[21-Sep-2019 10:14:07 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:14:07 Asia/Tokyo] デバッグ：クエリに成功しました
+[21-Sep-2019 10:14:07 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:14:07 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:14:07 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:14:07 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:14:07 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:14:07 Asia/Tokyo] デバッグ：取得した全項目: Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [name] => CSS設計
+            [time] => 00:09:56
+        )
+
+    [1] => Array
+        (
+            [id] => 3
+            [name] => Wordpress部
+            [time] => 00:20:31
+        )
+
+    [2] => Array
+        (
+            [id] => 6
+            [name] => PHPフレームワーク
+            [time] => 00:51:19
+        )
+
+    [3] => Array
+        (
+            [id] => 7
+            [name] => Javascript 上級
+            [time] => 01:06:37
+        )
+
+    [4] => Array
+        (
+            [id] => 11
+            [name] => PHPフレームワーク　アウトプット
+            [time] => 02:00:25
+        )
+
+)
+
+[21-Sep-2019 10:14:07 Asia/Tokyo] デバッグ：メッセージ取得します：
+[21-Sep-2019 10:14:07 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:14:07 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:14:07 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:14:07 Asia/Tokyo] デバッグ：「　ユーザー登録ページ　
+[21-Sep-2019 10:14:07 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:14:07 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:14:07 Asia/Tokyo] デバッグ：セッションID：b6c9f698b0f29a84f51fd1d1b41d836c
+[21-Sep-2019 10:14:07 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028447
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:14:07 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028447
+[21-Sep-2019 10:14:08 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:14:08 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:14:08 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:14:08 Asia/Tokyo] デバッグ：「　勉強項目ページ　
+[21-Sep-2019 10:14:08 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:14:08 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:14:08 Asia/Tokyo] デバッグ：セッションID：5709538687c46c1492144047eb3d642b
+[21-Sep-2019 10:14:08 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028447
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:14:08 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028448
+[21-Sep-2019 10:14:08 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:14:08 Asia/Tokyo] デバッグ：「　認証ページ　
+[21-Sep-2019 10:14:08 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:14:08 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:14:08 Asia/Tokyo] デバッグ：セッションID：5709538687c46c1492144047eb3d642b
+[21-Sep-2019 10:14:08 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028447
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:14:08 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028448
+[21-Sep-2019 10:14:08 Asia/Tokyo] デバッグ：ログインユーザーです
+[21-Sep-2019 10:14:08 Asia/Tokyo] デバッグ：制限時間内です。
+[21-Sep-2019 10:14:08 Asia/Tokyo] デバッグ：勉強項目を取得します
+[21-Sep-2019 10:14:08 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:14:08 Asia/Tokyo] デバッグ：項目の取得に成功しました
+[21-Sep-2019 10:14:44 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:14:44 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:14:44 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:14:44 Asia/Tokyo] デバッグ：「　勉強項目ページ　
+[21-Sep-2019 10:14:44 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:14:44 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:14:44 Asia/Tokyo] デバッグ：セッションID：2d1a9355f35ca539ff2a98e0e3f6dd82
+[21-Sep-2019 10:14:44 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028448
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:14:44 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028484
+[21-Sep-2019 10:14:44 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:14:44 Asia/Tokyo] デバッグ：「　認証ページ　
+[21-Sep-2019 10:14:44 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:14:44 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:14:44 Asia/Tokyo] デバッグ：セッションID：2d1a9355f35ca539ff2a98e0e3f6dd82
+[21-Sep-2019 10:14:44 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028448
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:14:44 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028484
+[21-Sep-2019 10:14:44 Asia/Tokyo] デバッグ：ログインユーザーです
+[21-Sep-2019 10:14:44 Asia/Tokyo] デバッグ：制限時間内です。
+[21-Sep-2019 10:14:44 Asia/Tokyo] デバッグ：勉強項目を取得します
+[21-Sep-2019 10:14:44 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:14:44 Asia/Tokyo] デバッグ：項目の取得に成功しました
+[21-Sep-2019 10:14:45 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:14:45 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:14:45 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:14:45 Asia/Tokyo] デバッグ：「　ユーザー登録ページ　
+[21-Sep-2019 10:14:45 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:14:45 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:14:45 Asia/Tokyo] デバッグ：セッションID：01dfb5c7d72062e6e1fa64aa1cdd7412
+[21-Sep-2019 10:14:45 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028484
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:14:45 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028485
+[21-Sep-2019 10:15:05 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:15:05 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:15:05 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:15:05 Asia/Tokyo] デバッグ：「　勉強項目ページ　
+[21-Sep-2019 10:15:05 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:15:05 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:15:05 Asia/Tokyo] デバッグ：セッションID：501655b3e0e7f7a2a2ec4949ca5ad2f0
+[21-Sep-2019 10:15:05 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028484
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:15:05 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028505
+[21-Sep-2019 10:15:05 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:15:05 Asia/Tokyo] デバッグ：「　認証ページ　
+[21-Sep-2019 10:15:05 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:15:05 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:15:05 Asia/Tokyo] デバッグ：セッションID：501655b3e0e7f7a2a2ec4949ca5ad2f0
+[21-Sep-2019 10:15:05 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028484
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:15:05 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028505
+[21-Sep-2019 10:15:05 Asia/Tokyo] デバッグ：ログインユーザーです
+[21-Sep-2019 10:15:05 Asia/Tokyo] デバッグ：制限時間内です。
+[21-Sep-2019 10:15:05 Asia/Tokyo] デバッグ：勉強項目を取得します
+[21-Sep-2019 10:15:05 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:15:05 Asia/Tokyo] デバッグ：項目の取得に成功しました
+[21-Sep-2019 10:15:06 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:15:06 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:15:06 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:15:06 Asia/Tokyo] デバッグ：「　ユーザー登録ページ　
+[21-Sep-2019 10:15:06 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:15:06 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:15:06 Asia/Tokyo] デバッグ：セッションID：309ad1800d269694ef51f322d45b1a7a
+[21-Sep-2019 10:15:06 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028505
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:15:06 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028506
+[21-Sep-2019 10:16:26 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:16:26 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:16:26 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:16:26 Asia/Tokyo] デバッグ：「　勉強項目ページ　
+[21-Sep-2019 10:16:26 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:16:26 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:16:26 Asia/Tokyo] デバッグ：セッションID：fb15c7b4d17a8b4d3de7952f5588fb88
+[21-Sep-2019 10:16:26 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028505
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:16:26 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028586
+[21-Sep-2019 10:16:26 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:16:26 Asia/Tokyo] デバッグ：「　認証ページ　
+[21-Sep-2019 10:16:26 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:16:26 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:16:26 Asia/Tokyo] デバッグ：セッションID：fb15c7b4d17a8b4d3de7952f5588fb88
+[21-Sep-2019 10:16:26 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028505
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:16:26 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028586
+[21-Sep-2019 10:16:26 Asia/Tokyo] デバッグ：ログインユーザーです
+[21-Sep-2019 10:16:26 Asia/Tokyo] デバッグ：制限時間内です。
+[21-Sep-2019 10:16:26 Asia/Tokyo] デバッグ：勉強項目を取得します
+[21-Sep-2019 10:16:26 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:16:26 Asia/Tokyo] デバッグ：項目の取得に成功しました
+[21-Sep-2019 10:16:26 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:16:26 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:16:26 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:16:26 Asia/Tokyo] デバッグ：「　ユーザー登録ページ　
+[21-Sep-2019 10:16:26 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:16:26 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:16:26 Asia/Tokyo] デバッグ：セッションID：c58485a31ae2403482be5e171ff9794b
+[21-Sep-2019 10:16:26 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028586
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:16:26 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028586
+[21-Sep-2019 10:16:28 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:16:28 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:16:28 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:16:28 Asia/Tokyo] デバッグ：「　ツイート画面　
+[21-Sep-2019 10:16:28 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:16:28 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:16:28 Asia/Tokyo] デバッグ：セッションID：e82f90c217aff5b38eebcd4a6785a9ee
+[21-Sep-2019 10:16:28 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028586
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:16:28 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028588
+[21-Sep-2019 10:16:28 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:16:28 Asia/Tokyo] デバッグ：「　認証ページ　
+[21-Sep-2019 10:16:28 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:16:28 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:16:28 Asia/Tokyo] デバッグ：セッションID：e82f90c217aff5b38eebcd4a6785a9ee
+[21-Sep-2019 10:16:28 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028586
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:16:28 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028588
+[21-Sep-2019 10:16:28 Asia/Tokyo] デバッグ：ログインユーザーです
+[21-Sep-2019 10:16:28 Asia/Tokyo] デバッグ：制限時間内です。
+[21-Sep-2019 10:16:28 Asia/Tokyo] デバッグ：ユーザー情報を取得します
+[21-Sep-2019 10:16:28 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:16:28 Asia/Tokyo] デバッグ：ユーザー情報の取得に成功しました
+[21-Sep-2019 10:16:28 Asia/Tokyo] デバッグ：consumerKey:8v4H4Awp2XiXAUDw7dGbg6G78
+[21-Sep-2019 10:16:28 Asia/Tokyo] デバッグ：consumerSecret:e3wYl1I580Ryl5v5STM32L3nD2wJTTt7PIeuYZYvLBXyHi2VUw
+[21-Sep-2019 10:16:28 Asia/Tokyo] デバッグ：accessToken:296853080-Av5tqYOqD3Dd1iFPfFrcj6SNUSlcDMkjcO3JrZz2
+[21-Sep-2019 10:16:28 Asia/Tokyo] デバッグ：accessTokenSecret:I0L4XYrBw6m6v8RZyPGilVagVWayrjIHGhtYfHFnMuwfI
+[21-Sep-2019 10:16:28 Asia/Tokyo] デバッグ：ユーザーのツイート情報を取得します
+[21-Sep-2019 10:16:28 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:16:28 Asia/Tokyo] デバッグ：tweet情報を持っているユーザーです
+[21-Sep-2019 10:16:28 Asia/Tokyo] デバッグ：ユーザーのツイート情報の取得に成功しました
+[21-Sep-2019 10:16:28 Asia/Tokyo] デバッグ：勉強項目を取得します
+[21-Sep-2019 10:16:28 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:16:28 Asia/Tokyo] デバッグ：項目の取得に成功しました
+[21-Sep-2019 10:16:28 Asia/Tokyo] PHP Notice:  Undefined index: studyTime_today in C:\MAMP\htdocs\Study-Support\tweet.php on line 87
+[21-Sep-2019 10:18:32 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:18:32 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:18:32 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:18:32 Asia/Tokyo] デバッグ：「　ツイート画面　
+[21-Sep-2019 10:18:32 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:18:32 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:18:32 Asia/Tokyo] デバッグ：セッションID：3a99dea6987687f45f15bfe383a645f8
+[21-Sep-2019 10:18:32 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028588
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:18:32 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028712
+[21-Sep-2019 10:18:32 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:18:32 Asia/Tokyo] デバッグ：「　認証ページ　
+[21-Sep-2019 10:18:32 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:18:32 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:18:32 Asia/Tokyo] デバッグ：セッションID：3a99dea6987687f45f15bfe383a645f8
+[21-Sep-2019 10:18:32 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028588
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:18:32 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028712
+[21-Sep-2019 10:18:32 Asia/Tokyo] デバッグ：ログインユーザーです
+[21-Sep-2019 10:18:32 Asia/Tokyo] デバッグ：制限時間内です。
+[21-Sep-2019 10:18:32 Asia/Tokyo] デバッグ：ユーザー情報を取得します
+[21-Sep-2019 10:18:32 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:18:32 Asia/Tokyo] デバッグ：ユーザー情報の取得に成功しました
+[21-Sep-2019 10:18:32 Asia/Tokyo] デバッグ：consumerKey:8v4H4Awp2XiXAUDw7dGbg6G78
+[21-Sep-2019 10:18:32 Asia/Tokyo] デバッグ：consumerSecret:e3wYl1I580Ryl5v5STM32L3nD2wJTTt7PIeuYZYvLBXyHi2VUw
+[21-Sep-2019 10:18:32 Asia/Tokyo] デバッグ：accessToken:296853080-Av5tqYOqD3Dd1iFPfFrcj6SNUSlcDMkjcO3JrZz2
+[21-Sep-2019 10:18:32 Asia/Tokyo] デバッグ：accessTokenSecret:I0L4XYrBw6m6v8RZyPGilVagVWayrjIHGhtYfHFnMuwfI
+[21-Sep-2019 10:18:32 Asia/Tokyo] デバッグ：ユーザーのツイート情報を取得します
+[21-Sep-2019 10:18:32 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:18:32 Asia/Tokyo] デバッグ：tweet情報を持っているユーザーです
+[21-Sep-2019 10:18:32 Asia/Tokyo] デバッグ：ユーザーのツイート情報の取得に成功しました
+[21-Sep-2019 10:18:32 Asia/Tokyo] デバッグ：勉強項目を取得します
+[21-Sep-2019 10:18:32 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:18:32 Asia/Tokyo] デバッグ：項目の取得に成功しました
+[21-Sep-2019 10:18:32 Asia/Tokyo] PHP Notice:  Undefined index: studyTime_today in C:\MAMP\htdocs\Study-Support\tweet.php on line 87
+[21-Sep-2019 10:18:33 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:18:33 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:18:33 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:18:33 Asia/Tokyo] デバッグ：「　ユーザー登録ページ　
+[21-Sep-2019 10:18:33 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:18:33 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:18:33 Asia/Tokyo] デバッグ：セッションID：589367ca2c01cb8278570b020afa6ba4
+[21-Sep-2019 10:18:33 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028712
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:18:33 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028713
+[21-Sep-2019 10:18:53 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:18:53 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:18:53 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:18:53 Asia/Tokyo] デバッグ：「　ツイート画面　
+[21-Sep-2019 10:18:53 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:18:53 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:18:53 Asia/Tokyo] デバッグ：セッションID：ee3df98aa16b6e2757fa9c5a0fff87e2
+[21-Sep-2019 10:18:53 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028712
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:18:53 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028733
+[21-Sep-2019 10:18:53 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:18:53 Asia/Tokyo] デバッグ：「　認証ページ　
+[21-Sep-2019 10:18:53 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:18:53 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:18:53 Asia/Tokyo] デバッグ：セッションID：ee3df98aa16b6e2757fa9c5a0fff87e2
+[21-Sep-2019 10:18:53 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028712
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:18:53 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028733
+[21-Sep-2019 10:18:53 Asia/Tokyo] デバッグ：ログインユーザーです
+[21-Sep-2019 10:18:53 Asia/Tokyo] デバッグ：制限時間内です。
+[21-Sep-2019 10:18:53 Asia/Tokyo] デバッグ：ユーザー情報を取得します
+[21-Sep-2019 10:18:53 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:18:53 Asia/Tokyo] デバッグ：ユーザー情報の取得に成功しました
+[21-Sep-2019 10:18:53 Asia/Tokyo] デバッグ：consumerKey:8v4H4Awp2XiXAUDw7dGbg6G78
+[21-Sep-2019 10:18:53 Asia/Tokyo] デバッグ：consumerSecret:e3wYl1I580Ryl5v5STM32L3nD2wJTTt7PIeuYZYvLBXyHi2VUw
+[21-Sep-2019 10:18:53 Asia/Tokyo] デバッグ：accessToken:296853080-Av5tqYOqD3Dd1iFPfFrcj6SNUSlcDMkjcO3JrZz2
+[21-Sep-2019 10:18:53 Asia/Tokyo] デバッグ：accessTokenSecret:I0L4XYrBw6m6v8RZyPGilVagVWayrjIHGhtYfHFnMuwfI
+[21-Sep-2019 10:18:53 Asia/Tokyo] デバッグ：ユーザーのツイート情報を取得します
+[21-Sep-2019 10:18:53 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:18:53 Asia/Tokyo] デバッグ：tweet情報を持っているユーザーです
+[21-Sep-2019 10:18:53 Asia/Tokyo] デバッグ：ユーザーのツイート情報の取得に成功しました
+[21-Sep-2019 10:18:53 Asia/Tokyo] デバッグ：勉強項目を取得します
+[21-Sep-2019 10:18:53 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:18:53 Asia/Tokyo] デバッグ：項目の取得に成功しました
+[21-Sep-2019 10:18:53 Asia/Tokyo] PHP Notice:  Undefined index: studyTime_today in C:\MAMP\htdocs\Study-Support\tweet.php on line 87
+[21-Sep-2019 10:18:53 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:18:53 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:18:53 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:18:53 Asia/Tokyo] デバッグ：「　ユーザー登録ページ　
+[21-Sep-2019 10:18:53 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:18:53 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:18:53 Asia/Tokyo] デバッグ：セッションID：fd3f197f17de56cb38ab4dda2a8942ca
+[21-Sep-2019 10:18:53 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028733
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:18:53 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028733
+[21-Sep-2019 10:18:59 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:18:59 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:18:59 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:18:59 Asia/Tokyo] デバッグ：「　勉強項目ページ　
+[21-Sep-2019 10:18:59 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:18:59 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:18:59 Asia/Tokyo] デバッグ：セッションID：290f506bfdf684cc96e758f9d7c351fa
+[21-Sep-2019 10:18:59 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028733
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:18:59 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028739
+[21-Sep-2019 10:18:59 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:18:59 Asia/Tokyo] デバッグ：「　認証ページ　
+[21-Sep-2019 10:18:59 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:18:59 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:18:59 Asia/Tokyo] デバッグ：セッションID：290f506bfdf684cc96e758f9d7c351fa
+[21-Sep-2019 10:18:59 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028733
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:18:59 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028739
+[21-Sep-2019 10:18:59 Asia/Tokyo] デバッグ：ログインユーザーです
+[21-Sep-2019 10:18:59 Asia/Tokyo] デバッグ：制限時間内です。
+[21-Sep-2019 10:18:59 Asia/Tokyo] デバッグ：勉強項目を取得します
+[21-Sep-2019 10:18:59 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:18:59 Asia/Tokyo] デバッグ：項目の取得に成功しました
+[21-Sep-2019 10:19:01 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:19:01 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:19:01 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:19:01 Asia/Tokyo] デバッグ：「　メインボードページ　
+[21-Sep-2019 10:19:01 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:19:01 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:19:01 Asia/Tokyo] デバッグ：セッションID：f7814867b3964d64a39d99b58a9eb159
+[21-Sep-2019 10:19:01 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028739
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:19:01 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028741
+[21-Sep-2019 10:19:01 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:19:01 Asia/Tokyo] デバッグ：「　認証ページ　
+[21-Sep-2019 10:19:01 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:19:01 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:19:01 Asia/Tokyo] デバッグ：セッションID：f7814867b3964d64a39d99b58a9eb159
+[21-Sep-2019 10:19:01 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028739
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:19:01 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028741
+[21-Sep-2019 10:19:01 Asia/Tokyo] デバッグ：ログインユーザーです
+[21-Sep-2019 10:19:01 Asia/Tokyo] デバッグ：制限時間内です。
+[21-Sep-2019 10:19:01 Asia/Tokyo] デバッグ：勉強項目をすべて取得します
+[21-Sep-2019 10:19:01 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:19:01 Asia/Tokyo] デバッグ：クエリに成功しました
+[21-Sep-2019 10:19:01 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:19:01 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:19:01 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:19:01 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:19:01 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:19:01 Asia/Tokyo] デバッグ：取得した全項目: Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [name] => CSS設計
+            [time] => 00:09:56
+        )
+
+    [1] => Array
+        (
+            [id] => 3
+            [name] => Wordpress部
+            [time] => 00:20:31
+        )
+
+    [2] => Array
+        (
+            [id] => 6
+            [name] => PHPフレームワーク
+            [time] => 00:51:19
+        )
+
+    [3] => Array
+        (
+            [id] => 7
+            [name] => Javascript 上級
+            [time] => 01:06:37
+        )
+
+    [4] => Array
+        (
+            [id] => 11
+            [name] => PHPフレームワーク　アウトプット
+            [time] => 02:00:25
+        )
+
+)
+
+[21-Sep-2019 10:19:01 Asia/Tokyo] デバッグ：メッセージ取得します：
+[21-Sep-2019 10:19:20 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:19:20 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:19:20 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:19:20 Asia/Tokyo] デバッグ：「　メインボードページ　
+[21-Sep-2019 10:19:20 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:19:20 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:19:20 Asia/Tokyo] デバッグ：セッションID：91b62338f08bec02365264ddbb7d87cc
+[21-Sep-2019 10:19:20 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028741
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:19:20 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028760
+[21-Sep-2019 10:19:20 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:19:20 Asia/Tokyo] デバッグ：「　認証ページ　
+[21-Sep-2019 10:19:20 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:19:20 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:19:20 Asia/Tokyo] デバッグ：セッションID：91b62338f08bec02365264ddbb7d87cc
+[21-Sep-2019 10:19:20 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028741
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:19:20 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028760
+[21-Sep-2019 10:19:20 Asia/Tokyo] デバッグ：ログインユーザーです
+[21-Sep-2019 10:19:20 Asia/Tokyo] デバッグ：制限時間内です。
+[21-Sep-2019 10:19:20 Asia/Tokyo] デバッグ：勉強項目をすべて取得します
+[21-Sep-2019 10:19:20 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:19:20 Asia/Tokyo] デバッグ：クエリに成功しました
+[21-Sep-2019 10:19:20 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:19:20 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:19:20 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:19:20 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:19:20 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:19:20 Asia/Tokyo] デバッグ：取得した全項目: Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [name] => CSS設計
+            [time] => 00:09:56
+        )
+
+    [1] => Array
+        (
+            [id] => 3
+            [name] => Wordpress部
+            [time] => 00:20:31
+        )
+
+    [2] => Array
+        (
+            [id] => 6
+            [name] => PHPフレームワーク
+            [time] => 00:51:19
+        )
+
+    [3] => Array
+        (
+            [id] => 7
+            [name] => Javascript 上級
+            [time] => 01:06:37
+        )
+
+    [4] => Array
+        (
+            [id] => 11
+            [name] => PHPフレームワーク　アウトプット
+            [time] => 02:00:25
+        )
+
+)
+
+[21-Sep-2019 10:19:20 Asia/Tokyo] デバッグ：メッセージ取得します：
+[21-Sep-2019 10:19:33 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:19:33 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:19:33 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:19:33 Asia/Tokyo] デバッグ：「　勉強項目ページ　
+[21-Sep-2019 10:19:33 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:19:33 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:19:33 Asia/Tokyo] デバッグ：セッションID：7ef7eb409e85dd5b0e923e53fe875d1d
+[21-Sep-2019 10:19:33 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028760
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:19:33 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028773
+[21-Sep-2019 10:19:33 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:19:33 Asia/Tokyo] デバッグ：「　認証ページ　
+[21-Sep-2019 10:19:33 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:19:33 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:19:33 Asia/Tokyo] デバッグ：セッションID：7ef7eb409e85dd5b0e923e53fe875d1d
+[21-Sep-2019 10:19:33 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028760
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:19:33 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028773
+[21-Sep-2019 10:19:33 Asia/Tokyo] デバッグ：ログインユーザーです
+[21-Sep-2019 10:19:33 Asia/Tokyo] デバッグ：制限時間内です。
+[21-Sep-2019 10:19:33 Asia/Tokyo] デバッグ：勉強項目を取得します
+[21-Sep-2019 10:19:33 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:19:33 Asia/Tokyo] デバッグ：項目の取得に成功しました
+[21-Sep-2019 10:19:39 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:19:39 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:19:39 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:19:39 Asia/Tokyo] デバッグ：「　Ajax　setStudyTime
+[21-Sep-2019 10:19:39 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:19:39 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:19:39 Asia/Tokyo] デバッグ：セッションID：8f72d24496f0cd979d77eb705cf71d96
+[21-Sep-2019 10:19:39 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028773
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+)
+
+[21-Sep-2019 10:19:39 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028779
+[21-Sep-2019 10:19:39 Asia/Tokyo] デバッグ：Ajax処理を開始
+[21-Sep-2019 10:19:39 Asia/Tokyo] デバッグ：studyTime_total:020028
+[21-Sep-2019 10:19:39 Asia/Tokyo] デバッグ：subjectid:11
+[21-Sep-2019 10:19:39 Asia/Tokyo] デバッグ：これだけ勉強しましたー＞020028
+[21-Sep-2019 10:19:39 Asia/Tokyo] デバッグ：勉強時間を更新します
+[21-Sep-2019 10:19:39 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:19:39 Asia/Tokyo] デバッグ：勉強時間を更新しました
+[21-Sep-2019 10:19:39 Asia/Tokyo] デバッグ：データベース更新成功：勉強時間
+[21-Sep-2019 10:19:40 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:19:40 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:19:40 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:19:40 Asia/Tokyo] デバッグ：「　ツイート画面　
+[21-Sep-2019 10:19:40 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:19:40 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:19:40 Asia/Tokyo] デバッグ：セッションID：44aefe5e2e25e2dcd5ff2c806768654d
+[21-Sep-2019 10:19:40 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028773
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+    [studyTime_today] => 3275
+)
+
+[21-Sep-2019 10:19:40 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028780
+[21-Sep-2019 10:19:40 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:19:40 Asia/Tokyo] デバッグ：「　認証ページ　
+[21-Sep-2019 10:19:40 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:19:40 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:19:40 Asia/Tokyo] デバッグ：セッションID：44aefe5e2e25e2dcd5ff2c806768654d
+[21-Sep-2019 10:19:40 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028773
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+    [studyTime_today] => 3275
+)
+
+[21-Sep-2019 10:19:40 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028780
+[21-Sep-2019 10:19:40 Asia/Tokyo] デバッグ：ログインユーザーです
+[21-Sep-2019 10:19:40 Asia/Tokyo] デバッグ：制限時間内です。
+[21-Sep-2019 10:19:40 Asia/Tokyo] デバッグ：ユーザー情報を取得します
+[21-Sep-2019 10:19:40 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:19:40 Asia/Tokyo] デバッグ：ユーザー情報の取得に成功しました
+[21-Sep-2019 10:19:40 Asia/Tokyo] デバッグ：consumerKey:8v4H4Awp2XiXAUDw7dGbg6G78
+[21-Sep-2019 10:19:40 Asia/Tokyo] デバッグ：consumerSecret:e3wYl1I580Ryl5v5STM32L3nD2wJTTt7PIeuYZYvLBXyHi2VUw
+[21-Sep-2019 10:19:40 Asia/Tokyo] デバッグ：accessToken:296853080-Av5tqYOqD3Dd1iFPfFrcj6SNUSlcDMkjcO3JrZz2
+[21-Sep-2019 10:19:40 Asia/Tokyo] デバッグ：accessTokenSecret:I0L4XYrBw6m6v8RZyPGilVagVWayrjIHGhtYfHFnMuwfI
+[21-Sep-2019 10:19:40 Asia/Tokyo] デバッグ：ユーザーのツイート情報を取得します
+[21-Sep-2019 10:19:40 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:19:40 Asia/Tokyo] デバッグ：tweet情報を持っているユーザーです
+[21-Sep-2019 10:19:40 Asia/Tokyo] デバッグ：ユーザーのツイート情報の取得に成功しました
+[21-Sep-2019 10:19:40 Asia/Tokyo] デバッグ：勉強項目を取得します
+[21-Sep-2019 10:19:40 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:19:40 Asia/Tokyo] デバッグ：項目の取得に成功しました
+[21-Sep-2019 10:19:44 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:19:44 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:19:44 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:19:44 Asia/Tokyo] デバッグ：「　勉強項目ページ　
+[21-Sep-2019 10:19:44 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:19:44 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:19:44 Asia/Tokyo] デバッグ：セッションID：f3320e71eeac28c597da5a50f84966b5
+[21-Sep-2019 10:19:44 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028780
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+    [studyTime_today] => 3275
+)
+
+[21-Sep-2019 10:19:44 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028784
+[21-Sep-2019 10:19:44 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:19:44 Asia/Tokyo] デバッグ：「　認証ページ　
+[21-Sep-2019 10:19:44 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:19:44 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:19:44 Asia/Tokyo] デバッグ：セッションID：f3320e71eeac28c597da5a50f84966b5
+[21-Sep-2019 10:19:44 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028780
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+    [studyTime_today] => 3275
+)
+
+[21-Sep-2019 10:19:44 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028784
+[21-Sep-2019 10:19:44 Asia/Tokyo] デバッグ：ログインユーザーです
+[21-Sep-2019 10:19:44 Asia/Tokyo] デバッグ：制限時間内です。
+[21-Sep-2019 10:19:44 Asia/Tokyo] デバッグ：勉強項目を取得します
+[21-Sep-2019 10:19:44 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:19:44 Asia/Tokyo] デバッグ：項目の取得に成功しました
+[21-Sep-2019 10:19:45 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:19:45 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:19:45 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:19:45 Asia/Tokyo] デバッグ：「　メインボードページ　
+[21-Sep-2019 10:19:45 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:19:45 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:19:45 Asia/Tokyo] デバッグ：セッションID：2cec1fd8e0daea3d87dda14927214543
+[21-Sep-2019 10:19:45 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028784
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+    [studyTime_today] => 3275
+)
+
+[21-Sep-2019 10:19:45 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028785
+[21-Sep-2019 10:19:45 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:19:45 Asia/Tokyo] デバッグ：「　認証ページ　
+[21-Sep-2019 10:19:45 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:19:45 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:19:45 Asia/Tokyo] デバッグ：セッションID：2cec1fd8e0daea3d87dda14927214543
+[21-Sep-2019 10:19:45 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028784
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+    [studyTime_today] => 3275
+)
+
+[21-Sep-2019 10:19:45 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569028785
+[21-Sep-2019 10:19:45 Asia/Tokyo] デバッグ：ログインユーザーです
+[21-Sep-2019 10:19:45 Asia/Tokyo] デバッグ：制限時間内です。
+[21-Sep-2019 10:19:45 Asia/Tokyo] デバッグ：勉強項目をすべて取得します
+[21-Sep-2019 10:19:45 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:19:45 Asia/Tokyo] デバッグ：クエリに成功しました
+[21-Sep-2019 10:19:45 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:19:45 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:19:45 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:19:45 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:19:45 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:19:45 Asia/Tokyo] デバッグ：取得した全項目: Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [name] => CSS設計
+            [time] => 00:09:56
+        )
+
+    [1] => Array
+        (
+            [id] => 3
+            [name] => Wordpress部
+            [time] => 00:20:31
+        )
+
+    [2] => Array
+        (
+            [id] => 6
+            [name] => PHPフレームワーク
+            [time] => 00:51:19
+        )
+
+    [3] => Array
+        (
+            [id] => 7
+            [name] => Javascript 上級
+            [time] => 01:06:37
+        )
+
+    [4] => Array
+        (
+            [id] => 11
+            [name] => PHPフレームワーク　アウトプット
+            [time] => 02:00:28
+        )
+
+)
+
+[21-Sep-2019 10:19:45 Asia/Tokyo] デバッグ：メッセージ取得します：
+[21-Sep-2019 10:24:39 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:24:39 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:24:39 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:24:39 Asia/Tokyo] デバッグ：「　メインボードページ　
+[21-Sep-2019 10:24:39 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:24:39 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:24:39 Asia/Tokyo] デバッグ：セッションID：54c6cc930fa56267a89e299dbbd7b0fd
+[21-Sep-2019 10:24:39 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028785
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+    [studyTime_today] => 3275
+)
+
+[21-Sep-2019 10:24:39 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569029079
+[21-Sep-2019 10:24:39 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:24:39 Asia/Tokyo] デバッグ：「　認証ページ　
+[21-Sep-2019 10:24:39 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:24:39 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:24:39 Asia/Tokyo] デバッグ：セッションID：54c6cc930fa56267a89e299dbbd7b0fd
+[21-Sep-2019 10:24:39 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569028785
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+    [studyTime_today] => 3275
+)
+
+[21-Sep-2019 10:24:39 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569029079
+[21-Sep-2019 10:24:39 Asia/Tokyo] デバッグ：ログインユーザーです
+[21-Sep-2019 10:24:39 Asia/Tokyo] デバッグ：制限時間内です。
+[21-Sep-2019 10:24:39 Asia/Tokyo] デバッグ：勉強項目をすべて取得します
+[21-Sep-2019 10:24:39 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:24:39 Asia/Tokyo] デバッグ：クエリに成功しました
+[21-Sep-2019 10:24:39 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:24:39 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:24:39 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:24:39 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:24:39 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:24:39 Asia/Tokyo] デバッグ：取得した全項目: Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [name] => CSS設計
+            [time] => 00:09:56
+        )
+
+    [1] => Array
+        (
+            [id] => 3
+            [name] => Wordpress部
+            [time] => 00:20:31
+        )
+
+    [2] => Array
+        (
+            [id] => 6
+            [name] => PHPフレームワーク
+            [time] => 00:51:19
+        )
+
+    [3] => Array
+        (
+            [id] => 7
+            [name] => Javascript 上級
+            [time] => 01:06:37
+        )
+
+    [4] => Array
+        (
+            [id] => 11
+            [name] => PHPフレームワーク　アウトプット
+            [time] => 02:00:28
+        )
+
+)
+
+[21-Sep-2019 10:24:39 Asia/Tokyo] デバッグ：メッセージ取得します：
+[21-Sep-2019 10:24:43 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:24:43 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:24:43 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:24:43 Asia/Tokyo] デバッグ：「　勉強項目ページ　
+[21-Sep-2019 10:24:43 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:24:43 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:24:43 Asia/Tokyo] デバッグ：セッションID：4ed6c81ef1099227071ead3cef64d5bb
+[21-Sep-2019 10:24:43 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569029079
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+    [studyTime_today] => 3275
+)
+
+[21-Sep-2019 10:24:43 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569029083
+[21-Sep-2019 10:24:43 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:24:43 Asia/Tokyo] デバッグ：「　認証ページ　
+[21-Sep-2019 10:24:43 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:24:43 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:24:43 Asia/Tokyo] デバッグ：セッションID：4ed6c81ef1099227071ead3cef64d5bb
+[21-Sep-2019 10:24:43 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569029079
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+    [studyTime_today] => 3275
+)
+
+[21-Sep-2019 10:24:43 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569029083
+[21-Sep-2019 10:24:43 Asia/Tokyo] デバッグ：ログインユーザーです
+[21-Sep-2019 10:24:43 Asia/Tokyo] デバッグ：制限時間内です。
+[21-Sep-2019 10:24:43 Asia/Tokyo] デバッグ：勉強項目を取得します
+[21-Sep-2019 10:24:43 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:24:43 Asia/Tokyo] デバッグ：項目の取得に成功しました
+[21-Sep-2019 10:24:48 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:24:48 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:24:48 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:24:48 Asia/Tokyo] デバッグ：「　ツイート画面　
+[21-Sep-2019 10:24:48 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:24:48 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:24:48 Asia/Tokyo] デバッグ：セッションID：781061fc3a9e7e8afb9b059c4d859946
+[21-Sep-2019 10:24:48 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569029083
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+    [studyTime_today] => 3275
+)
+
+[21-Sep-2019 10:24:48 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569029088
+[21-Sep-2019 10:24:48 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:24:48 Asia/Tokyo] デバッグ：「　認証ページ　
+[21-Sep-2019 10:24:48 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:24:48 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:24:48 Asia/Tokyo] デバッグ：セッションID：781061fc3a9e7e8afb9b059c4d859946
+[21-Sep-2019 10:24:48 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569029083
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+    [studyTime_today] => 3275
+)
+
+[21-Sep-2019 10:24:48 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569029088
+[21-Sep-2019 10:24:48 Asia/Tokyo] デバッグ：ログインユーザーです
+[21-Sep-2019 10:24:48 Asia/Tokyo] デバッグ：制限時間内です。
+[21-Sep-2019 10:24:48 Asia/Tokyo] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in C:\MAMP\htdocs\Study-Support\tweet.php on line 17
+[21-Sep-2019 10:24:48 Asia/Tokyo] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.;C:\php\pear') in C:\MAMP\htdocs\Study-Support\tweet.php on line 17
+[21-Sep-2019 10:24:51 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:24:51 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:24:51 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:24:51 Asia/Tokyo] デバッグ：「　勉強項目ページ　
+[21-Sep-2019 10:24:51 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:24:51 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:24:51 Asia/Tokyo] デバッグ：セッションID：c12f88ebfbe9d609d618432a727078a9
+[21-Sep-2019 10:24:51 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569029088
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+    [studyTime_today] => 3275
+)
+
+[21-Sep-2019 10:24:51 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569029091
+[21-Sep-2019 10:24:51 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:24:51 Asia/Tokyo] デバッグ：「　認証ページ　
+[21-Sep-2019 10:24:51 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:24:51 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:24:51 Asia/Tokyo] デバッグ：セッションID：c12f88ebfbe9d609d618432a727078a9
+[21-Sep-2019 10:24:51 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569029088
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+    [studyTime_today] => 3275
+)
+
+[21-Sep-2019 10:24:51 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569029091
+[21-Sep-2019 10:24:51 Asia/Tokyo] デバッグ：ログインユーザーです
+[21-Sep-2019 10:24:51 Asia/Tokyo] デバッグ：制限時間内です。
+[21-Sep-2019 10:24:51 Asia/Tokyo] デバッグ：勉強項目を取得します
+[21-Sep-2019 10:24:51 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:24:51 Asia/Tokyo] デバッグ：項目の取得に成功しました
+[21-Sep-2019 10:24:58 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:24:58 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:24:58 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:24:58 Asia/Tokyo] デバッグ：「　勉強項目ページ　
+[21-Sep-2019 10:24:58 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:24:58 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:24:58 Asia/Tokyo] デバッグ：セッションID：def63adff6325dd227c9c4faa908a4f1
+[21-Sep-2019 10:24:58 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569029091
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+    [studyTime_today] => 3275
+)
+
+[21-Sep-2019 10:24:58 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569029098
+[21-Sep-2019 10:24:58 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:24:58 Asia/Tokyo] デバッグ：「　認証ページ　
+[21-Sep-2019 10:24:58 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:24:58 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:24:58 Asia/Tokyo] デバッグ：セッションID：def63adff6325dd227c9c4faa908a4f1
+[21-Sep-2019 10:24:58 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569029091
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+    [studyTime_today] => 3275
+)
+
+[21-Sep-2019 10:24:58 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569029098
+[21-Sep-2019 10:24:58 Asia/Tokyo] デバッグ：ログインユーザーです
+[21-Sep-2019 10:24:58 Asia/Tokyo] デバッグ：制限時間内です。
+[21-Sep-2019 10:24:58 Asia/Tokyo] デバッグ：勉強項目を取得します
+[21-Sep-2019 10:24:58 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:24:58 Asia/Tokyo] デバッグ：項目の取得に成功しました
+[21-Sep-2019 10:24:59 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:24:59 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:24:59 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:24:59 Asia/Tokyo] デバッグ：「　ツイート画面　
+[21-Sep-2019 10:24:59 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:24:59 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:24:59 Asia/Tokyo] デバッグ：セッションID：4cad003df75774cf2afb9150c238d2ce
+[21-Sep-2019 10:24:59 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569029098
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+    [studyTime_today] => 3275
+)
+
+[21-Sep-2019 10:24:59 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569029099
+[21-Sep-2019 10:24:59 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:24:59 Asia/Tokyo] デバッグ：「　認証ページ　
+[21-Sep-2019 10:24:59 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:24:59 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:24:59 Asia/Tokyo] デバッグ：セッションID：4cad003df75774cf2afb9150c238d2ce
+[21-Sep-2019 10:24:59 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569029098
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+    [studyTime_today] => 3275
+)
+
+[21-Sep-2019 10:24:59 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569029099
+[21-Sep-2019 10:24:59 Asia/Tokyo] デバッグ：ログインユーザーです
+[21-Sep-2019 10:24:59 Asia/Tokyo] デバッグ：制限時間内です。
+[21-Sep-2019 10:24:59 Asia/Tokyo] デバッグ：ユーザー情報を取得します
+[21-Sep-2019 10:24:59 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:24:59 Asia/Tokyo] デバッグ：ユーザー情報の取得に成功しました
+[21-Sep-2019 10:24:59 Asia/Tokyo] デバッグ：consumerKey:8v4H4Awp2XiXAUDw7dGbg6G78
+[21-Sep-2019 10:24:59 Asia/Tokyo] デバッグ：consumerSecret:e3wYl1I580Ryl5v5STM32L3nD2wJTTt7PIeuYZYvLBXyHi2VUw
+[21-Sep-2019 10:24:59 Asia/Tokyo] デバッグ：accessToken:296853080-Av5tqYOqD3Dd1iFPfFrcj6SNUSlcDMkjcO3JrZz2
+[21-Sep-2019 10:24:59 Asia/Tokyo] デバッグ：accessTokenSecret:I0L4XYrBw6m6v8RZyPGilVagVWayrjIHGhtYfHFnMuwfI
+[21-Sep-2019 10:24:59 Asia/Tokyo] デバッグ：ユーザーのツイート情報を取得します
+[21-Sep-2019 10:24:59 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:24:59 Asia/Tokyo] デバッグ：tweet情報を持っているユーザーです
+[21-Sep-2019 10:24:59 Asia/Tokyo] デバッグ：ユーザーのツイート情報の取得に成功しました
+[21-Sep-2019 10:24:59 Asia/Tokyo] デバッグ：勉強項目を取得します
+[21-Sep-2019 10:24:59 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:24:59 Asia/Tokyo] デバッグ：項目の取得に成功しました
+[21-Sep-2019 10:25:01 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:25:01 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:25:01 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:25:01 Asia/Tokyo] デバッグ：「　勉強項目ページ　
+[21-Sep-2019 10:25:01 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:25:01 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:25:01 Asia/Tokyo] デバッグ：セッションID：43e7c858922822d93dd1c84577c7fbdd
+[21-Sep-2019 10:25:01 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569029099
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+    [studyTime_today] => 3275
+)
+
+[21-Sep-2019 10:25:01 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569029101
+[21-Sep-2019 10:25:01 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:25:01 Asia/Tokyo] デバッグ：「　認証ページ　
+[21-Sep-2019 10:25:01 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:25:01 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:25:01 Asia/Tokyo] デバッグ：セッションID：43e7c858922822d93dd1c84577c7fbdd
+[21-Sep-2019 10:25:01 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569029099
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+    [studyTime_today] => 3275
+)
+
+[21-Sep-2019 10:25:01 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569029101
+[21-Sep-2019 10:25:01 Asia/Tokyo] デバッグ：ログインユーザーです
+[21-Sep-2019 10:25:01 Asia/Tokyo] デバッグ：制限時間内です。
+[21-Sep-2019 10:25:01 Asia/Tokyo] デバッグ：勉強項目を取得します
+[21-Sep-2019 10:25:01 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:25:01 Asia/Tokyo] デバッグ：項目の取得に成功しました
+[21-Sep-2019 10:25:23 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:25:23 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:25:23 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:25:23 Asia/Tokyo] デバッグ：「　勉強項目ページ　
+[21-Sep-2019 10:25:23 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:25:23 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:25:23 Asia/Tokyo] デバッグ：セッションID：3da231bd622f7dd11d3af20776bdadee
+[21-Sep-2019 10:25:23 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569029101
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+    [studyTime_today] => 3275
+)
+
+[21-Sep-2019 10:25:23 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569029123
+[21-Sep-2019 10:25:23 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:25:23 Asia/Tokyo] デバッグ：「　認証ページ　
+[21-Sep-2019 10:25:23 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:25:23 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:25:23 Asia/Tokyo] デバッグ：セッションID：3da231bd622f7dd11d3af20776bdadee
+[21-Sep-2019 10:25:23 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569029101
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+    [studyTime_today] => 3275
+)
+
+[21-Sep-2019 10:25:23 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569029123
+[21-Sep-2019 10:25:23 Asia/Tokyo] デバッグ：ログインユーザーです
+[21-Sep-2019 10:25:23 Asia/Tokyo] デバッグ：制限時間内です。
+[21-Sep-2019 10:25:23 Asia/Tokyo] デバッグ：勉強項目を取得します
+[21-Sep-2019 10:25:23 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:25:23 Asia/Tokyo] デバッグ：項目の取得に成功しました
+[21-Sep-2019 10:25:25 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:25:25 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:25:25 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:25:25 Asia/Tokyo] デバッグ：「　メインボードページ　
+[21-Sep-2019 10:25:25 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:25:25 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:25:25 Asia/Tokyo] デバッグ：セッションID：cbec4f40af1fe39e78d3cb39b6db528e
+[21-Sep-2019 10:25:25 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569029123
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+    [studyTime_today] => 3275
+)
+
+[21-Sep-2019 10:25:25 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569029125
+[21-Sep-2019 10:25:25 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:25:25 Asia/Tokyo] デバッグ：「　認証ページ　
+[21-Sep-2019 10:25:25 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:25:25 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:25:25 Asia/Tokyo] デバッグ：セッションID：cbec4f40af1fe39e78d3cb39b6db528e
+[21-Sep-2019 10:25:25 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569029123
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+    [studyTime_today] => 3275
+)
+
+[21-Sep-2019 10:25:25 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569029125
+[21-Sep-2019 10:25:25 Asia/Tokyo] デバッグ：ログインユーザーです
+[21-Sep-2019 10:25:25 Asia/Tokyo] デバッグ：制限時間内です。
+[21-Sep-2019 10:25:25 Asia/Tokyo] デバッグ：勉強項目をすべて取得します
+[21-Sep-2019 10:25:25 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:25:25 Asia/Tokyo] デバッグ：クエリに成功しました
+[21-Sep-2019 10:25:25 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:25:25 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:25:25 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:25:25 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:25:25 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:25:25 Asia/Tokyo] デバッグ：取得した全項目: Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [name] => CSS設計
+            [time] => 00:09:56
+        )
+
+    [1] => Array
+        (
+            [id] => 3
+            [name] => Wordpress部
+            [time] => 00:20:31
+        )
+
+    [2] => Array
+        (
+            [id] => 6
+            [name] => PHPフレームワーク
+            [time] => 00:51:19
+        )
+
+    [3] => Array
+        (
+            [id] => 7
+            [name] => Javascript 上級
+            [time] => 01:06:37
+        )
+
+    [4] => Array
+        (
+            [id] => 11
+            [name] => PHPフレームワーク　アウトプット
+            [time] => 02:00:28
+        )
+
+)
+
+[21-Sep-2019 10:25:25 Asia/Tokyo] デバッグ：メッセージ取得します：
+[21-Sep-2019 10:25:26 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:25:26 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:25:26 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:25:26 Asia/Tokyo] デバッグ：「　ユーザー登録ページ　
+[21-Sep-2019 10:25:26 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:25:26 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:25:26 Asia/Tokyo] デバッグ：セッションID：79eaecfbc8c9b1b67444a3ad60b0b483
+[21-Sep-2019 10:25:26 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569029125
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+    [studyTime_today] => 3275
+)
+
+[21-Sep-2019 10:25:26 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569029126
+[21-Sep-2019 10:25:26 Asia/Tokyo] デバッグ：ユーザー情報を取得します
+[21-Sep-2019 10:25:26 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:25:26 Asia/Tokyo] デバッグ：ユーザー情報の取得に成功しました
+[21-Sep-2019 10:25:26 Asia/Tokyo] デバッグ：メッセージ取得します：
+[21-Sep-2019 10:25:28 Asia/Tokyo] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\MAMP\htdocs\Study-Support\functions.php on line 45
+[21-Sep-2019 10:25:28 Asia/Tokyo] PHP Notice:  session_start(): A session had already been started - ignoring in C:\MAMP\htdocs\Study-Support\functions.php on line 49
+[21-Sep-2019 10:25:28 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:25:28 Asia/Tokyo] デバッグ：「　メインボードページ　
+[21-Sep-2019 10:25:28 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:25:28 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:25:28 Asia/Tokyo] デバッグ：セッションID：525e29cb448a448079daf69930a97e20
+[21-Sep-2019 10:25:28 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569029125
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+    [studyTime_today] => 3275
+)
+
+[21-Sep-2019 10:25:28 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569029128
+[21-Sep-2019 10:25:28 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:25:28 Asia/Tokyo] デバッグ：「　認証ページ　
+[21-Sep-2019 10:25:28 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[21-Sep-2019 10:25:28 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[21-Sep-2019 10:25:28 Asia/Tokyo] デバッグ：セッションID：525e29cb448a448079daf69930a97e20
+[21-Sep-2019 10:25:28 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_time] => 1569029125
+    [session_limit_time] => 86400
+    [user_id] => 39
+    [msg] => 
+    [studyTime_today] => 3275
+)
+
+[21-Sep-2019 10:25:28 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1569029128
+[21-Sep-2019 10:25:28 Asia/Tokyo] デバッグ：ログインユーザーです
+[21-Sep-2019 10:25:28 Asia/Tokyo] デバッグ：制限時間内です。
+[21-Sep-2019 10:25:28 Asia/Tokyo] デバッグ：勉強項目をすべて取得します
+[21-Sep-2019 10:25:28 Asia/Tokyo] デバッグ：クエリ成功。
+[21-Sep-2019 10:25:28 Asia/Tokyo] デバッグ：クエリに成功しました
+[21-Sep-2019 10:25:28 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:25:28 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:25:28 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:25:28 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:25:28 Asia/Tokyo] デバッグ：HH:MM:SS⇒msecに変換します
+[21-Sep-2019 10:25:28 Asia/Tokyo] デバッグ：取得した全項目: Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [name] => CSS設計
+            [time] => 00:09:56
+        )
+
+    [1] => Array
+        (
+            [id] => 3
+            [name] => Wordpress部
+            [time] => 00:20:31
+        )
+
+    [2] => Array
+        (
+            [id] => 6
+            [name] => PHPフレームワーク
+            [time] => 00:51:19
+        )
+
+    [3] => Array
+        (
+            [id] => 7
+            [name] => Javascript 上級
+            [time] => 01:06:37
+        )
+
+    [4] => Array
+        (
+            [id] => 11
+            [name] => PHPフレームワーク　アウトプット
+            [time] => 02:00:28
+        )
+
+)
+
+[21-Sep-2019 10:25:28 Asia/Tokyo] デバッグ：メッセージ取得します：
