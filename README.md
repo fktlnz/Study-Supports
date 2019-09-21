@@ -14,21 +14,22 @@
 - ログイン画面
 - 項目管理画面  
 好きな項目を「+追加」から追加します。各項目で何時間勉強したのか表示されます。
-![Index page](https://gyazo.com/909793dd1a354981619b5299ae5d432a.png)
+![Index Page](https://gyazo.com/909793dd1a354981619b5299ae5d432a.png"サンプル")
+[Index page](https://gyazo.com/909793dd1a354981619b5299ae5d432a.png)
   
 - 測定画面  
 「測定開始」をクリックして勉強を開始しよう！好きな時に測定を一時停止することができます。
 勉強が終わったら、「投稿する」ボタンからツイート画面に進もう！
-![Measure page](https://gyazo.com/5c8880da9a80e0459020aedf4b45f2ed.png)
+[Measure page](https://gyazo.com/5c8880da9a80e0459020aedf4b45f2ed)
   　　
 - ツイート画面  
 下記のようなテンプレート分が表示されるので、勉強した内容や気づきを追記して投稿しよう！
 一定文字数を超えると投稿できないようにボタンが機能しなくなります。
-![Tweet page](https://gyazo.com/345b6361b1adb5bb482722b9d5efaa0b.png)
+[Tweet page](https://gyazo.com/345b6361b1adb5bb482722b9d5efaa0b)
 
 ### アプリURL
 
-[学習支援アプリ](https://test.masashisite.com)
+![学習支援アプリ](https://test.masashisite.com)
 
 ## Author
 
