@@ -24,11 +24,11 @@
 - ツイート画面  
 下記のようなテンプレート分が表示されるので、勉強した内容や気づきを追記して投稿しよう！
 一定文字数を超えると投稿できないようにボタンが機能しなくなります。
-![Tweet page](https://gyazo.com/345b6361b1adb5bb482722b9d5efaa0b"サンプル")
+![Tweet page](https://gyazo.com/345b6361b1adb5bb482722b9d5efaa0b.png"サンプル")
 
 ### アプリURL
 
-![学習支援アプリ](https://test.masashisite.com)
+[学習支援アプリ](https://test.masashisite.com)
 
 ## Author
 
